@@ -2,532 +2,532 @@
   "version": 1,
   "packages": [
     {
+      "author": "GPlane",
+      "name": "204-for-unexisted-players",
       "require": {
         "blessing-skin-server": "^5.0.0"
       },
-      "title": "返回 204",
-      "author": "GPlane",
-      "version": "0.1.1",
-      "name": "204-for-unexisted-players",
+      "description": "对请求不存在的角色的 JSON Profile 返回 204",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/204-for-unexisted-players_0.1.1.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2F204-for-unexisted-players_0.1.1.zip",
-        "shasum": "1b8e7a247a097c93c615debe2004cb022685cc84"
+        "shasum": "4e55d1a23a87ff6d511aad6680d9e048d03e4d04861fee4b7053962500b968aa"
       },
-      "description": "对请求不存在的角色的 JSON Profile 返回 204"
+      "title": "返回 204",
+      "version": "0.1.1"
     },
     {
+      "author": "printempw",
+      "name": "authme-integration",
       "require": {
         "blessing-skin-server": "^5.0.0",
         "single-player-limit": "^2.0.0"
       },
-      "title": "Authme 数据对接",
-      "author": "printempw",
-      "version": "2.2.2",
-      "name": "authme-integration",
+      "description": "与 Authme 进行数据对接，让玩家可以使用皮肤站的账号密码登录游戏。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/authme-integration_2.2.2.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fauthme-integration_2.2.2.zip",
-        "shasum": "a87103d83561f189eb8192a8995e8d9db015edc3"
+        "shasum": "e0e80653cd070135fd6da019c8a5a07105c98dce9a602307b00ae8aee61b4022"
       },
-      "description": "与 Authme 进行数据对接，让玩家可以使用皮肤站的账号密码登录游戏。"
+      "title": "Authme 数据对接",
+      "version": "2.2.2"
     },
     {
+      "author": "printempw",
+      "name": "batch-import",
       "require": {
         "blessing-skin-server": "^5.0.0",
         "texture-type-cast": "^0.2.0"
       },
-      "title": "批量导入",
-      "author": "printempw",
-      "version": "4.0.0",
-      "name": "batch-import",
+      "description": "从本地文件批量导入材质至皮肤库，使用前请先阅读说明。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/batch-import_4.0.0.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fbatch-import_4.0.0.zip",
-        "shasum": "75071cfd41531899f434c4dda07526df2805aa65"
+        "shasum": "f338793cdd1df2d66fb9c6dd88fcf756eab7f94b35197d460004176de8c2a70f"
       },
-      "description": "从本地文件批量导入材质至皮肤库，使用前请先阅读说明。"
+      "title": "批量导入",
+      "version": "4.0.0"
     },
     {
+      "author": "printempw",
+      "name": "config-generator",
       "require": {
         "blessing-skin-server": "^5.0.0"
+      },
+      "description": "在用户中心添加自动生成皮肤 Mod 配置的页面。",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/config-generator_3.1.2.zip",
+        "type": "zip",
+        "shasum": "42a5ba05bec0c47b4ac3b2da5f4350b3ae8e6236fa9dcfe3f3f9f6b29015c50b"
       },
       "title": "配置生成",
-      "author": "printempw",
-      "version": "3.1.2",
-      "name": "config-generator",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fconfig-generator_3.1.2.zip",
-        "shasum": "f75486295953e943b56eecb2e230c4b80694cf83"
-      },
-      "description": "在用户中心添加自动生成皮肤 Mod 配置的页面。"
+      "version": "3.1.2"
     },
     {
+      "author": "GPlane",
+      "name": "embedded-comment",
       "require": {
         "blessing-skin-server": "^5.0.0"
       },
-      "title": "嵌入第三方评论",
-      "author": "GPlane",
-      "version": "1.0.2",
-      "name": "embedded-comment",
+      "description": "向材质详情页中嵌入第三方评论系统",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/embedded-comment_1.0.2.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fembedded-comment_1.0.2.zip",
-        "shasum": "61d6e4571a9fdc489f76057c88469ccf5eb3908b"
+        "shasum": "3792923fb18b02c39479eeb4ffb71918b6f9bd65cf1676079d140a59576fcb29"
       },
-      "description": "向材质详情页中嵌入第三方评论系统"
+      "title": "嵌入第三方评论",
+      "version": "1.0.2"
     },
     {
+      "author": "Little_Qiu",
+      "name": "eruda",
       "require": {
         "blessing-skin-server": "*"
       },
-      "title": "Eruda",
-      "author": "Little_Qiu",
-      "version": "1.0.0",
-      "name": "eruda",
+      "description": "适用于移动端浏览器的开发者工具。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/eruda_1.0.0.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Feruda_1.0.0.zip",
-        "shasum": "7091b106391ec16265feb9163769162b1f7f37f1"
+        "shasum": "721836f5c669fc4080cfdb5d58abaf97a8be52c2017c58363c628aa035385483"
       },
-      "description": "适用于移动端浏览器的开发者工具。"
+      "title": "Eruda",
+      "version": "1.0.0"
     },
     {
+      "author": "printempw",
+      "name": "example-plugin",
       "require": {
         "blessing-skin-server": "^5.0.0"
       },
-      "title": "示例插件",
-      "author": "printempw",
-      "version": "3.0.2",
-      "name": "example-plugin",
+      "description": "可以直接创建此插件的副本并在其基础上开发新的插件，其代码也兼具插件开发文档功能",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/example-plugin_3.0.2.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fexample-plugin_3.0.2.zip",
-        "shasum": "f04bd633ffa25ddbd6468a6c491d8ade65d1975f"
+        "shasum": "b41c599c09c37d9b49d13d24af43a86a265cc1b3a7f40c1459b5e043c300a87e"
       },
-      "description": "可以直接创建此插件的副本并在其基础上开发新的插件，其代码也兼具插件开发文档功能"
+      "title": "示例插件",
+      "version": "3.0.2"
     },
     {
+      "author": "GPlane",
+      "name": "fix-v4-update",
       "require": {
         "blessing-skin-server": "^4.0.0"
       },
-      "title": "修复 v4 更新",
-      "author": "GPlane",
-      "version": "0.1.0",
-      "name": "fix-v4-update",
+      "description": "修复 v4 的后台更新",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/fix-v4-update_0.1.0.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Ffix-v4-update_0.1.0.zip",
-        "shasum": "420b0ab9d983c17c81f27504f3a7812fdd16f0b9"
+        "shasum": "02069b2d9e083b2c2b82b113e50e6f45c16260170580b288e5a19beb2deab475"
       },
-      "description": "修复 v4 的后台更新"
+      "title": "修复 v4 更新",
+      "version": "0.1.0"
     },
     {
+      "author": "printempw",
+      "name": "forum-integration",
       "require": {
         "blessing-skin-server": ">=4.0.0",
         "single-player-limit": "^2.0.0"
       },
-      "title": "论坛数据对接",
-      "author": "printempw",
-      "version": "4.0.1",
-      "name": "forum-integration",
+      "description": "与 Discuz、Phpwind、Flarum 论坛程序进行数据对接，让玩家可以使用论坛的账号密码登录皮肤站，反之亦可。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/forum-integration_4.0.1.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fforum-integration_4.0.1.zip",
-        "shasum": "843deac69bf43c184ac250c3c8ddcbec9d38931b"
+        "shasum": "a9841c8597df008aa100c7772ac32b961430dbbfb149f125282717c559d5ad28"
       },
-      "description": "与 Discuz、Phpwind、Flarum 论坛程序进行数据对接，让玩家可以使用论坛的账号密码登录皮肤站，反之亦可。"
+      "title": "论坛数据对接",
+      "version": "4.0.1"
     },
     {
+      "author": "GPlane",
+      "name": "gravatar",
       "require": {
         "blessing-skin-server": "^5.0.0"
+      },
+      "description": "Gravatar 支持",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/gravatar_0.1.2.zip",
+        "type": "zip",
+        "shasum": "5d5deac1928dd9571c7dbf23334f06a889895b260aa66f2bb7e52ae30ae311a8"
       },
       "title": "Gravatar",
-      "author": "GPlane",
-      "version": "0.1.2",
-      "name": "gravatar",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fgravatar_0.1.2.zip",
-        "shasum": "40997a3b17d57e5d780b6f5052665b2b319b2524"
-      },
-      "description": "Gravatar 支持"
+      "version": "0.1.2"
     },
     {
+      "author": "Matt Mullenweg",
+      "name": "hello-dolly",
       "require": {
         "blessing-skin-server": "*"
+      },
+      "description": "HelloDolly::general.description",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/hello-dolly_1.2.1.zip",
+        "type": "zip",
+        "shasum": "1293857ce0cac04fbc305973966eaf4cb1451809452743b247a30994e17d4109"
       },
       "title": "HelloDolly::general.hello-dolly",
-      "author": "Matt Mullenweg",
-      "version": "1.2.1",
-      "name": "hello-dolly",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fhello-dolly_1.2.1.zip",
-        "shasum": "d67b09234057861467269c375c43e9d0978654fe"
-      },
-      "description": "HelloDolly::general.description"
+      "version": "1.2.1"
     },
     {
+      "author": "Little_Qiu",
+      "name": "hitokoto",
       "require": {
         "blessing-skin-server": "*"
       },
-      "title": "一言",
-      "author": "Little_Qiu",
-      "version": "1.2.1",
-      "name": "hitokoto",
+      "description": "在用户中心和管理面板的右上角显示一言。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/hitokoto_1.2.1.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fhitokoto_1.2.1.zip",
-        "shasum": "b9560f638636a51abc6c5e702b9745d639720276"
+        "shasum": "58b5b234da411a9111fb8b16f487c78165662ca4e1546afb471278bd87ed9c6a"
       },
-      "description": "在用户中心和管理面板的右上角显示一言。"
+      "title": "一言",
+      "version": "1.2.1"
     },
     {
+      "author": "printempw",
+      "name": "insane-profile-cache",
       "require": {
         "blessing-skin-server": "^5.0.0"
       },
-      "title": "Profile 文件缓存",
-      "author": "printempw",
-      "version": "4.0.1",
-      "name": "insane-profile-cache",
+      "description": "直接生成玩家 Profile 的文件缓存，交给 Nginx 处理，慎用。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/insane-profile-cache_4.0.1.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Finsane-profile-cache_4.0.1.zip",
-        "shasum": "8fa59accf347ddf93bf001ccc375f61ee34623cb"
+        "shasum": "e3429cc4c9573b37340b42cdce4793c55bb093d41e6f2dd97d80d43539887072"
       },
-      "description": "直接生成玩家 Profile 的文件缓存，交给 Nginx 处理，慎用。"
+      "title": "Profile 文件缓存",
+      "version": "4.0.1"
     },
     {
+      "author": "GPlane",
+      "name": "insider",
       "require": {
         "blessing-skin-server": ">=4.4.0"
       },
-      "title": "使用预览版",
-      "author": "GPlane",
-      "version": "1.0.2",
-      "name": "insider",
+      "description": "自动将 Blessing Skin 更新源切换到包含预览版的地址。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/insider_1.0.2.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Finsider_1.0.2.zip",
-        "shasum": "c9c98bf09b7e85aa365eb619496735e9bfd51135"
+        "shasum": "6b43f4df5addfc086be3af62b5fb12d65a811e1d4daf3f6f250a5d8a25904a46"
       },
-      "description": "自动将 Blessing Skin 更新源切换到包含预览版的地址。"
+      "title": "使用预览版",
+      "version": "1.0.2"
     },
     {
+      "author": "printempw",
+      "name": "invitation-codes",
       "require": {
-        "blessing-skin-server": "^4.0.0 || ^5"
+        "blessing-skin-server": "^5.0.0"
+      },
+      "description": "在管理后台生成邀请码，只有持有邀请码才可以注册成为本站用户。",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/invitation-codes_2.1.2.zip",
+        "type": "zip",
+        "shasum": "acc05d4f61eb557676c45574d4ead93747fbc4746059a1177e22583991e0d446"
       },
       "title": "注册邀请码",
-      "author": "printempw",
-      "version": "2.1.2",
-      "name": "invitation-codes",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Finvitation-codes_2.1.2.zip",
-        "shasum": "f7ea0312a295c5baa4151f1de35e304ff9c3bc42"
-      },
-      "description": "在管理后台生成邀请码，只有持有邀请码才可以注册成为本站用户。"
+      "version": "2.1.2"
     },
     {
+      "author": "GPlane",
+      "name": "legacy-api",
       "require": {
         "blessing-skin-server": "^5.0.0"
+      },
+      "description": "提供传统的皮肤加载方式，即直接访问角色名。",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/legacy-api_1.1.1.zip",
+        "type": "zip",
+        "shasum": "76d95dfaa0ffcc83d388d799b974cc321baba37a4d2195a164d95fdd790da00b"
       },
       "title": "传统皮肤加载方式",
-      "author": "GPlane",
-      "version": "1.1.1",
-      "name": "legacy-api",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Flegacy-api_1.1.1.zip",
-        "shasum": "4e39b4d2aa8f28d32f9cf8f1228c8a940723221c"
-      },
-      "description": "提供传统的皮肤加载方式，即直接访问角色名。"
+      "version": "1.1.1"
     },
     {
+      "author": "GPlane",
+      "name": "mojang-verification",
       "require": {
         "blessing-skin-server": "^5.0.0"
+      },
+      "description": "为拥有正版账号的用户提供验证、绑定。",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.7.0.zip",
+        "type": "zip",
+        "shasum": "e36c9399d852a60ec938d12e03ff02f376f533a0fa042019ee2ff7c6f564fb56"
       },
       "title": "正版验证",
-      "author": "GPlane",
-      "version": "1.7.0",
-      "name": "mojang-verification",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fmojang-verification_1.7.0.zip",
-        "shasum": "ebb13f899bcd572ed91cd8307f37fbfa0437aeef"
-      },
-      "description": "为拥有正版账号的用户提供验证、绑定。"
+      "version": "1.7.0"
     },
     {
+      "author": "GPlane",
+      "name": "oauth-github",
       "require": {
         "blessing-skin-server": "^5.0.0"
+      },
+      "description": "用 GitHub 账号来登录皮肤站",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-github_0.1.3.zip",
+        "type": "zip",
+        "shasum": "2fcf639ffb449d06e0fd3451b394da0e8f7dfe9900e8f6376ef1e5f62ed0c468"
       },
       "title": "使用 GitHub 登录",
-      "author": "GPlane",
-      "version": "0.1.3",
-      "name": "oauth-github",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Foauth-github_0.1.3.zip",
-        "shasum": "19be2e45aab41e3745d727e827d74da29c73fd23"
-      },
-      "description": "用 GitHub 账号来登录皮肤站"
+      "version": "0.1.3"
     },
     {
+      "author": "Asnxthaony",
+      "name": "oauth-littleskin",
       "require": {
         "blessing-skin-server": "^5.0.0"
+      },
+      "description": "用 LittleSkin 账号来登录皮肤站",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-littleskin_0.1.3.zip",
+        "type": "zip",
+        "shasum": "994cfc1694a8992372064f7e687bd3370d194d72d9117b648a85cfc3c936e03e"
       },
       "title": "使用 LittleSkin 登录",
-      "author": "Asnxthaony",
-      "version": "0.1.3",
-      "name": "oauth-littleskin",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Foauth-littleskin_0.1.3.zip",
-        "shasum": "71ee880b1cb0c94c4b438563c12095c6d47f4776"
-      },
-      "description": "用 LittleSkin 账号来登录皮肤站"
+      "version": "0.1.3"
     },
     {
+      "author": "GPlane",
+      "name": "oauth-microsoft-live",
       "require": {
         "blessing-skin-server": "^5.0.0"
+      },
+      "description": "通过 Microsoft Live 来登录皮肤站",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.1.3.zip",
+        "type": "zip",
+        "shasum": "2c835674223639fece782ead657ea7769ff0e6026c0c23aa55df8a9b0e4ee470"
       },
       "title": "使用 Microsoft Live 登录",
-      "author": "GPlane",
-      "version": "0.1.3",
-      "name": "oauth-microsoft-live",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Foauth-microsoft-live_0.1.3.zip",
-        "shasum": "789c23655f514e044c98296bee81dc87593affcd"
-      },
-      "description": "通过 Microsoft Live 来登录皮肤站"
+      "version": "0.1.3"
     },
     {
+      "author": "GPlane",
+      "name": "password-algorithm-transition",
       "require": {
         "blessing-skin-server": "^5.0.0"
       },
-      "title": "密码算法切换",
-      "author": "GPlane",
-      "version": "2.0.0",
-      "name": "password-algorithm-transition",
+      "description": "将站点的密码算法进行渐进式的切换。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/password-algorithm-transition_2.0.0.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fpassword-algorithm-transition_2.0.0.zip",
-        "shasum": "e61588c13d30b48fe474db801dfdc0f86647adac"
+        "shasum": "92d9033373a1937a8dee53a2fbb5c764143925d7021a1d3de035afd47be6d94e"
       },
-      "description": "将站点的密码算法进行渐进式的切换。"
+      "title": "密码算法切换",
+      "version": "2.0.0"
     },
     {
+      "author": "GPlane",
+      "name": "pray-for-kyoto-animation",
       "require": {
         "blessing-skin-server": "*"
       },
-      "title": "祈福京阿尼",
-      "author": "GPlane",
-      "version": "1.0.3",
-      "name": "pray-for-kyoto-animation",
+      "description": "为京都动画第一工作室祈福。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/pray-for-kyoto-animation_1.0.3.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fpray-for-kyoto-animation_1.0.3.zip",
-        "shasum": "eb3c86cb2c33f990ad97fc0e9210a7050504f368"
+        "shasum": "c678392663fba7a24b17c2cc24a97d2c4fad2c1eec13ed1497d3c3c3558ead7f"
       },
-      "description": "为京都动画第一工作室祈福。"
+      "title": "祈福京阿尼",
+      "version": "1.0.3"
     },
     {
+      "author": "GPlane",
+      "name": "predis",
       "require": {
         "blessing-skin-server": "^5.0.0"
+      },
+      "description": "设置 Redis 客户端为 Predis。",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/predis_1.0.0.zip",
+        "type": "zip",
+        "shasum": "3d4c0f0c0c80313c79abb7cfd48036a9cf588c3ad62ff0a65374886bb79eb9d1"
       },
       "title": "Predis",
-      "author": "GPlane",
-      "version": "1.0.0",
-      "name": "predis",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fpredis_1.0.0.zip",
-        "shasum": "f789df2faa7a5e4502c09ce4cc68bd2e22b4b4cb"
-      },
-      "description": "设置 Redis 客户端为 Predis。"
+      "version": "1.0.0"
     },
     {
+      "author": "Honoka Tech LTD(GB)",
+      "name": "purge-azure-global-cdn",
       "require": {
         "blessing-skin-server": "^5"
+      },
+      "description": "当资源被更新时，自动刷新 Azure 国际版 CDN 的缓存。不适用于 Azure 中国版。",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/purge-azure-global-cdn_1.1.0.zip",
+        "type": "zip",
+        "shasum": "0a634c050c1de13efba780d0c23744be709a2bc8d83ca368c8b0cac271b9dc93"
       },
       "title": "刷新 Azure 国际版 CDN",
-      "author": "Honoka Tech LTD(GB)",
-      "version": "1.1.0",
-      "name": "purge-azure-global-cdn",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fpurge-azure-global-cdn_1.1.0.zip",
-        "shasum": "7d4fea8a5fbcd52ab51de23768af1e6865e60e96"
-      },
-      "description": "当资源被更新时，自动刷新 Azure 国际版 CDN 的缓存。不适用于 Azure 中国版。"
+      "version": "1.1.0"
     },
     {
+      "author": "GPlane",
+      "name": "refresh-qcloud-cdn",
       "require": {
         "blessing-skin-server": "^5"
       },
-      "title": "刷新腾讯云 CDN",
-      "author": "GPlane",
-      "version": "2.1.1",
-      "name": "refresh-qcloud-cdn",
+      "description": "当角色信息被更新时，自动刷新 CDN 中的 JSON Profile。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/refresh-qcloud-cdn_2.1.1.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Frefresh-qcloud-cdn_2.1.1.zip",
-        "shasum": "08fa900270154b9aa7119a54f6e63e1d769faab9"
+        "shasum": "214fbef89f95d2877f544118e531df0325ff7ee20ceda18ba41ccdca6e421a07"
       },
-      "description": "当角色信息被更新时，自动刷新 CDN 中的 JSON Profile。"
+      "title": "刷新腾讯云 CDN",
+      "version": "2.1.1"
     },
     {
+      "author": "GPlane",
+      "name": "remote-addr",
       "require": {
         "blessing-skin-server": "^5.0.0"
       },
-      "title": "Remote Addr",
-      "author": "GPlane",
-      "version": "0.1.0",
-      "name": "remote-addr",
+      "description": "通过 `REMOTE_ADDR` 来获取 IP。使用负载均衡或反向代理的网站请不要使用。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/remote-addr_0.1.0.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fremote-addr_0.1.0.zip",
-        "shasum": "c2ac547853636a9012bbf5c95132999f1951eb40"
+        "shasum": "8463f6ba645a1f209636f209a1f9d3229ccbe4fcfd4b9ed42780f5d79cc3c4d4"
       },
-      "description": "通过 `REMOTE_ADDR` 来获取 IP。使用负载均衡或反向代理的网站请不要使用。"
+      "title": "Remote Addr",
+      "version": "0.1.0"
     },
     {
+      "author": "GPlane",
+      "name": "share-registration-link",
       "require": {
-        "blessing-skin-server": "^4.1.0 || ^5"
+        "blessing-skin-server": "^5.0.0"
+      },
+      "description": "允许用户分享注册链接并获得积分",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/share-registration-link_2.0.0.zip",
+        "type": "zip",
+        "shasum": "2dd6bc65f033a58d37547beecdf40af5bfebfcde771a40fe5a59ec96d06e31e8"
       },
       "title": "分享注册链接",
-      "author": "GPlane",
-      "version": "1.2.2",
-      "name": "share-registration-link",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fshare-registration-link_1.2.2.zip",
-        "shasum": "04bbffb3be7b24faceaeb2cfc41a8ba72f6d6158"
-      },
-      "description": "允许用户分享注册链接并获得积分"
+      "version": "2.0.0"
     },
     {
+      "author": "GPlane",
+      "name": "single-player-limit",
       "require": {
         "blessing-skin-server": ">=4.0.0"
       },
-      "title": "单角色限制",
-      "author": "GPlane",
-      "version": "2.0.1",
-      "name": "single-player-limit",
+      "description": "限制一个用户至多只能拥有一个角色。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/single-player-limit_2.0.1.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fsingle-player-limit_2.0.1.zip",
-        "shasum": "50084cb8a33f38c77670419be12c656ed6771e3e"
+        "shasum": "1ce3d711e1a52261d1a282c7d3e22a30f24bc394968db9ff9837d5a9abfc2c70"
       },
-      "description": "限制一个用户至多只能拥有一个角色。"
+      "title": "单角色限制",
+      "version": "2.0.1"
     },
     {
+      "author": "GPlane",
+      "name": "texture-type-cast",
       "require": {
         "blessing-skin-server": "^5.0.0"
       },
-      "title": "材质类型强制转换",
-      "author": "GPlane",
-      "version": "0.2.0",
-      "name": "texture-type-cast",
+      "description": "强制对全站的材质进行材质类型修改",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/texture-type-cast_0.2.0.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Ftexture-type-cast_0.2.0.zip",
-        "shasum": "b27ef49203a3f0bd081e04c8a0663441c731a52c"
+        "shasum": "26477618539fb10aa74c20ec5bf3ca0888fca6a7d56e04e75937ee38677f70f3"
       },
-      "description": "强制对全站的材质进行材质类型修改"
+      "title": "材质类型强制转换",
+      "version": "0.2.0"
     },
     {
+      "author": "printempw",
+      "name": "textures-aliyun-oss",
       "require": {
         "blessing-skin-server": "^4.0.0 || ^5"
+      },
+      "description": "将用户上传的材质存储文件至阿里云 OSS 中。",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-aliyun-oss_2.0.3.zip",
+        "type": "zip",
+        "shasum": "ffe7ce0009a12a42159cd4aea83b5e97cb1eefbc94a8d317212b7b1f8fbd97e8"
       },
       "title": "阿里云对象存储 OSS",
-      "author": "printempw",
-      "version": "2.0.3",
-      "name": "textures-aliyun-oss",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Ftextures-aliyun-oss_2.0.3.zip",
-        "shasum": "409953c3ea71254df466dc8cce6772654bcb8a93"
-      },
-      "description": "将用户上传的材质存储文件至阿里云 OSS 中。"
+      "version": "2.0.3"
     },
     {
+      "author": "printempw",
+      "name": "textures-qcloud-cos",
       "require": {
         "blessing-skin-server": "^4.0.0 || ^5"
+      },
+      "description": "将用户上传的材质存储文件至腾讯云 COS 中。仅支持 COS v5。",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-qcloud-cos_2.0.3.zip",
+        "type": "zip",
+        "shasum": "fffed04027b2612fe8df9ab3607fed1e9fc0256a80aa335dc80694847e3007d2"
       },
       "title": "腾讯云对象存储 COS",
-      "author": "printempw",
-      "version": "2.0.3",
-      "name": "textures-qcloud-cos",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Ftextures-qcloud-cos_2.0.3.zip",
-        "shasum": "9b0ed896f6a3f3d4a9bd32215bd8cb6340635b44"
-      },
-      "description": "将用户上传的材质存储文件至腾讯云 COS 中。仅支持 COS v5。"
+      "version": "2.0.3"
     },
     {
+      "author": "printempw",
+      "name": "textures-qiniu-storage",
       "require": {
         "blessing-skin-server": "^4.0.0 || ^5"
       },
-      "title": "七牛云存储",
-      "author": "printempw",
-      "version": "2.0.3",
-      "name": "textures-qiniu-storage",
+      "description": "将用户上传的材质存储文件至七牛云存储中。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-qiniu-storage_2.0.3.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Ftextures-qiniu-storage_2.0.3.zip",
-        "shasum": "6c4dd794607248d44b82bf94eaf91d36b2e9a677"
+        "shasum": "18ce366d8346d8729fbddf62c0d8f9938e317f7bf93e340b2921d821554fe40b"
       },
-      "description": "将用户上传的材质存储文件至七牛云存储中。"
+      "title": "七牛云存储",
+      "version": "2.0.3"
     },
     {
+      "author": "GPlane",
+      "name": "trust-proxies",
       "require": {
         "blessing-skin-server": "^4.2.0 || ^5"
       },
-      "title": "代理信任",
-      "author": "GPlane",
-      "version": "0.1.2",
-      "name": "trust-proxies",
+      "description": "当站点使用负载均衡并开启 SSL 时，若遇到 URL 问题，可尝试安装并开启此插件。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/trust-proxies_0.1.2.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Ftrust-proxies_0.1.2.zip",
-        "shasum": "36cc617613f00514cee0e3b2357988e743fd3b65"
+        "shasum": "41acfb1969c16ab0b344429899fcce6f42152843fb77ef8825bf0f2754753f51"
       },
-      "description": "当站点使用负载均衡并开启 SSL 时，若遇到 URL 问题，可尝试安装并开启此插件。"
+      "title": "代理信任",
+      "version": "0.1.2"
     },
     {
+      "author": "GPlane",
+      "name": "usm-api",
       "require": {
         "blessing-skin-server": "^5.0.0"
+      },
+      "description": "提供 Universal Skin Mod 的 API",
+      "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/usm-api_1.1.1.zip",
+        "type": "zip",
+        "shasum": "dc6faa4f768d02336602ec3487f9c7bd801d5874baf5318c0e5b3d5aa39a8038"
       },
       "title": "Universal Skin API",
-      "author": "GPlane",
-      "version": "1.1.1",
-      "name": "usm-api",
-      "dist": {
-        "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fusm-api_1.1.1.zip",
-        "shasum": "d5fe3d8aa432d670ee3ac61a98e388aa9d6d480e"
-      },
-      "description": "提供 Universal Skin Mod 的 API"
+      "version": "1.1.1"
     },
     {
+      "author": "printempw",
+      "name": "yggdrasil-api",
       "require": {
         "blessing-skin-server": "^5.0.0"
       },
-      "title": "Yggdrasil API",
-      "author": "printempw",
-      "version": "4.2.0",
-      "name": "yggdrasil-api",
+      "description": "为皮肤站添加自定义 Yggdrasil API 支持，可配合 authlib-injector 等软件使用实现外置登录功能。",
       "dist": {
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/yggdrasil-api_4.3.0.zip",
         "type": "zip",
-        "url": "https://dev.azure.com/blessing-skin/0dc12c60-882a-46a2-90c6-9450490193a2/_apis/git/repositories/d5283b63-dfb0-497e-ad17-2860a547596f/Items?path=%2Fyggdrasil-api_4.2.0.zip",
-        "shasum": "6be1ef977e0e2bcfb6ba5b46a525a7dc955489b9"
+        "shasum": "49f007cd9236e5da0f08449ce6531413a81ae02d27346e93ef97ac4874fae025"
       },
-      "description": "为皮肤站添加自定义 Yggdrasil API 支持，可配合 authlib-injector 等软件使用实现外置登录功能。"
+      "title": "Yggdrasil API",
+      "version": "4.3.0"
     }
   ]
 }
