@@ -11,9 +11,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/204-for-unexisted-players_0.1.1.zip",
-        "shasum": "4e55d1a23a87ff6d511aad6680d9e048d03e4d04861fee4b7053962500b968aa"
+        "shasum": "4e55d1a23a87ff6d511aad6680d9e048d03e4d04861fee4b7053962500b968aa",
+        "type": "zip"
       }
     },
     {
@@ -27,9 +27,9 @@
         "single-player-limit": "^2.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/authme-integration_2.2.2.zip",
-        "shasum": "e0e80653cd070135fd6da019c8a5a07105c98dce9a602307b00ae8aee61b4022"
+        "shasum": "e0e80653cd070135fd6da019c8a5a07105c98dce9a602307b00ae8aee61b4022",
+        "type": "zip"
       }
     },
     {
@@ -43,9 +43,9 @@
         "texture-type-cast": "^0.2.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/batch-import_4.0.0.zip",
-        "shasum": "f338793cdd1df2d66fb9c6dd88fcf756eab7f94b35197d460004176de8c2a70f"
+        "shasum": "f338793cdd1df2d66fb9c6dd88fcf756eab7f94b35197d460004176de8c2a70f",
+        "type": "zip"
       }
     },
     {
@@ -58,9 +58,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/config-generator_3.1.2.zip",
-        "shasum": "42a5ba05bec0c47b4ac3b2da5f4350b3ae8e6236fa9dcfe3f3f9f6b29015c50b"
+        "shasum": "42a5ba05bec0c47b4ac3b2da5f4350b3ae8e6236fa9dcfe3f3f9f6b29015c50b",
+        "type": "zip"
       }
     },
     {
@@ -73,9 +73,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/embedded-comment_1.0.2.zip",
-        "shasum": "3792923fb18b02c39479eeb4ffb71918b6f9bd65cf1676079d140a59576fcb29"
+        "shasum": "3792923fb18b02c39479eeb4ffb71918b6f9bd65cf1676079d140a59576fcb29",
+        "type": "zip"
       }
     },
     {
@@ -88,9 +88,9 @@
         "blessing-skin-server": "*"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/eruda_1.0.0.zip",
-        "shasum": "721836f5c669fc4080cfdb5d58abaf97a8be52c2017c58363c628aa035385483"
+        "shasum": "721836f5c669fc4080cfdb5d58abaf97a8be52c2017c58363c628aa035385483",
+        "type": "zip"
       }
     },
     {
@@ -103,9 +103,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/example-plugin_3.0.2.zip",
-        "shasum": "b41c599c09c37d9b49d13d24af43a86a265cc1b3a7f40c1459b5e043c300a87e"
+        "shasum": "b41c599c09c37d9b49d13d24af43a86a265cc1b3a7f40c1459b5e043c300a87e",
+        "type": "zip"
       }
     },
     {
@@ -118,9 +118,9 @@
         "blessing-skin-server": "^4.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/fix-v4-update_0.1.0.zip",
-        "shasum": "02069b2d9e083b2c2b82b113e50e6f45c16260170580b288e5a19beb2deab475"
+        "shasum": "02069b2d9e083b2c2b82b113e50e6f45c16260170580b288e5a19beb2deab475",
+        "type": "zip"
       }
     },
     {
@@ -134,9 +134,9 @@
         "single-player-limit": "^2.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/forum-integration_4.0.1.zip",
-        "shasum": "a9841c8597df008aa100c7772ac32b961430dbbfb149f125282717c559d5ad28"
+        "shasum": "a9841c8597df008aa100c7772ac32b961430dbbfb149f125282717c559d5ad28",
+        "type": "zip"
       }
     },
     {
@@ -149,9 +149,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/gravatar_0.1.2.zip",
-        "shasum": "5d5deac1928dd9571c7dbf23334f06a889895b260aa66f2bb7e52ae30ae311a8"
+        "shasum": "5d5deac1928dd9571c7dbf23334f06a889895b260aa66f2bb7e52ae30ae311a8",
+        "type": "zip"
       }
     },
     {
@@ -164,9 +164,9 @@
         "blessing-skin-server": "*"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/hello-dolly_1.2.1.zip",
-        "shasum": "1293857ce0cac04fbc305973966eaf4cb1451809452743b247a30994e17d4109"
+        "shasum": "1293857ce0cac04fbc305973966eaf4cb1451809452743b247a30994e17d4109",
+        "type": "zip"
       }
     },
     {
@@ -179,9 +179,9 @@
         "blessing-skin-server": "*"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/hitokoto_1.2.1.zip",
-        "shasum": "58b5b234da411a9111fb8b16f487c78165662ca4e1546afb471278bd87ed9c6a"
+        "shasum": "58b5b234da411a9111fb8b16f487c78165662ca4e1546afb471278bd87ed9c6a",
+        "type": "zip"
       }
     },
     {
@@ -194,9 +194,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/insane-profile-cache_4.0.1.zip",
-        "shasum": "e3429cc4c9573b37340b42cdce4793c55bb093d41e6f2dd97d80d43539887072"
+        "shasum": "e3429cc4c9573b37340b42cdce4793c55bb093d41e6f2dd97d80d43539887072",
+        "type": "zip"
       }
     },
     {
@@ -209,9 +209,9 @@
         "blessing-skin-server": ">=4.4.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/insider_1.0.2.zip",
-        "shasum": "6b43f4df5addfc086be3af62b5fb12d65a811e1d4daf3f6f250a5d8a25904a46"
+        "shasum": "6b43f4df5addfc086be3af62b5fb12d65a811e1d4daf3f6f250a5d8a25904a46",
+        "type": "zip"
       }
     },
     {
@@ -224,9 +224,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/invitation-codes_3.0.0.zip",
-        "shasum": "5e4a2010fae305e54e054e35d0441eaa0b83fd458898771dd30118ee22ac00a8"
+        "shasum": "5e4a2010fae305e54e054e35d0441eaa0b83fd458898771dd30118ee22ac00a8",
+        "type": "zip"
       }
     },
     {
@@ -239,9 +239,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/legacy-api_1.1.1.zip",
-        "shasum": "76d95dfaa0ffcc83d388d799b974cc321baba37a4d2195a164d95fdd790da00b"
+        "shasum": "76d95dfaa0ffcc83d388d799b974cc321baba37a4d2195a164d95fdd790da00b",
+        "type": "zip"
       }
     },
     {
@@ -254,9 +254,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.7.0.zip",
-        "shasum": "e36c9399d852a60ec938d12e03ff02f376f533a0fa042019ee2ff7c6f564fb56"
+        "shasum": "e36c9399d852a60ec938d12e03ff02f376f533a0fa042019ee2ff7c6f564fb56",
+        "type": "zip"
       }
     },
     {
@@ -269,9 +269,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-github_0.1.3.zip",
-        "shasum": "2fcf639ffb449d06e0fd3451b394da0e8f7dfe9900e8f6376ef1e5f62ed0c468"
+        "shasum": "2fcf639ffb449d06e0fd3451b394da0e8f7dfe9900e8f6376ef1e5f62ed0c468",
+        "type": "zip"
       }
     },
     {
@@ -284,9 +284,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-littleskin_0.1.4.zip",
-        "shasum": "8b522e39c5bcc54de82028b8baf93864236c542ced34a76bc34731a6236473ed"
+        "shasum": "8b522e39c5bcc54de82028b8baf93864236c542ced34a76bc34731a6236473ed",
+        "type": "zip"
       }
     },
     {
@@ -299,9 +299,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.1.3.zip",
-        "shasum": "2c835674223639fece782ead657ea7769ff0e6026c0c23aa55df8a9b0e4ee470"
+        "shasum": "2c835674223639fece782ead657ea7769ff0e6026c0c23aa55df8a9b0e4ee470",
+        "type": "zip"
       }
     },
     {
@@ -314,9 +314,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/password-algorithm-transition_2.1.0.zip",
-        "shasum": "3a46856edda8e810bcbc616c98415335adc1ebab523d84fdb0bd8bf124642d17"
+        "shasum": "3a46856edda8e810bcbc616c98415335adc1ebab523d84fdb0bd8bf124642d17",
+        "type": "zip"
       }
     },
     {
@@ -329,9 +329,9 @@
         "blessing-skin-server": "*"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/pray-for-kyoto-animation_1.0.3.zip",
-        "shasum": "c678392663fba7a24b17c2cc24a97d2c4fad2c1eec13ed1497d3c3c3558ead7f"
+        "shasum": "c678392663fba7a24b17c2cc24a97d2c4fad2c1eec13ed1497d3c3c3558ead7f",
+        "type": "zip"
       }
     },
     {
@@ -344,9 +344,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/predis_1.0.0.zip",
-        "shasum": "3d4c0f0c0c80313c79abb7cfd48036a9cf588c3ad62ff0a65374886bb79eb9d1"
+        "shasum": "3d4c0f0c0c80313c79abb7cfd48036a9cf588c3ad62ff0a65374886bb79eb9d1",
+        "type": "zip"
       }
     },
     {
@@ -359,9 +359,9 @@
         "blessing-skin-server": "^5"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/purge-azure-global-cdn_1.1.0.zip",
-        "shasum": "0a634c050c1de13efba780d0c23744be709a2bc8d83ca368c8b0cac271b9dc93"
+        "shasum": "0a634c050c1de13efba780d0c23744be709a2bc8d83ca368c8b0cac271b9dc93",
+        "type": "zip"
       }
     },
     {
@@ -374,9 +374,9 @@
         "blessing-skin-server": "^5"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/refresh-qcloud-cdn_2.1.1.zip",
-        "shasum": "214fbef89f95d2877f544118e531df0325ff7ee20ceda18ba41ccdca6e421a07"
+        "shasum": "214fbef89f95d2877f544118e531df0325ff7ee20ceda18ba41ccdca6e421a07",
+        "type": "zip"
       }
     },
     {
@@ -389,9 +389,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/remote-addr_0.1.0.zip",
-        "shasum": "8463f6ba645a1f209636f209a1f9d3229ccbe4fcfd4b9ed42780f5d79cc3c4d4"
+        "shasum": "8463f6ba645a1f209636f209a1f9d3229ccbe4fcfd4b9ed42780f5d79cc3c4d4",
+        "type": "zip"
       }
     },
     {
@@ -404,9 +404,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/share-registration-link_2.0.0.zip",
-        "shasum": "2dd6bc65f033a58d37547beecdf40af5bfebfcde771a40fe5a59ec96d06e31e8"
+        "shasum": "2dd6bc65f033a58d37547beecdf40af5bfebfcde771a40fe5a59ec96d06e31e8",
+        "type": "zip"
       }
     },
     {
@@ -419,9 +419,9 @@
         "blessing-skin-server": ">=4.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/single-player-limit_2.1.0.zip",
-        "shasum": "43d4538edabab64e287e69f35422a3d345d5d442c794e4ffd5980877eb09d176"
+        "shasum": "43d4538edabab64e287e69f35422a3d345d5d442c794e4ffd5980877eb09d176",
+        "type": "zip"
       }
     },
     {
@@ -434,9 +434,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/texture-type-cast_0.2.0.zip",
-        "shasum": "26477618539fb10aa74c20ec5bf3ca0888fca6a7d56e04e75937ee38677f70f3"
+        "shasum": "26477618539fb10aa74c20ec5bf3ca0888fca6a7d56e04e75937ee38677f70f3",
+        "type": "zip"
       }
     },
     {
@@ -449,9 +449,9 @@
         "blessing-skin-server": "^4.0.0 || ^5"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-aliyun-oss_2.0.3.zip",
-        "shasum": "ffe7ce0009a12a42159cd4aea83b5e97cb1eefbc94a8d317212b7b1f8fbd97e8"
+        "shasum": "ffe7ce0009a12a42159cd4aea83b5e97cb1eefbc94a8d317212b7b1f8fbd97e8",
+        "type": "zip"
       }
     },
     {
@@ -464,9 +464,9 @@
         "blessing-skin-server": "^4.0.0 || ^5"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-qcloud-cos_2.0.3.zip",
-        "shasum": "fffed04027b2612fe8df9ab3607fed1e9fc0256a80aa335dc80694847e3007d2"
+        "shasum": "fffed04027b2612fe8df9ab3607fed1e9fc0256a80aa335dc80694847e3007d2",
+        "type": "zip"
       }
     },
     {
@@ -479,9 +479,9 @@
         "blessing-skin-server": "^4.0.0 || ^5"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-qiniu-storage_2.0.3.zip",
-        "shasum": "18ce366d8346d8729fbddf62c0d8f9938e317f7bf93e340b2921d821554fe40b"
+        "shasum": "18ce366d8346d8729fbddf62c0d8f9938e317f7bf93e340b2921d821554fe40b",
+        "type": "zip"
       }
     },
     {
@@ -494,9 +494,9 @@
         "blessing-skin-server": "^4.2.0 || ^5"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/trust-proxies_0.1.2.zip",
-        "shasum": "41acfb1969c16ab0b344429899fcce6f42152843fb77ef8825bf0f2754753f51"
+        "shasum": "41acfb1969c16ab0b344429899fcce6f42152843fb77ef8825bf0f2754753f51",
+        "type": "zip"
       }
     },
     {
@@ -509,9 +509,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/usm-api_1.1.1.zip",
-        "shasum": "dc6faa4f768d02336602ec3487f9c7bd801d5874baf5318c0e5b3d5aa39a8038"
+        "shasum": "dc6faa4f768d02336602ec3487f9c7bd801d5874baf5318c0e5b3d5aa39a8038",
+        "type": "zip"
       }
     },
     {
@@ -524,9 +524,9 @@
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
-        "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/yggdrasil-api_4.4.0.zip",
-        "shasum": "46192dbca7d6c715bb863a3a8500af31801b3de1bf06cd6386e3b6ec2f67e840"
+        "shasum": "46192dbca7d6c715bb863a3a8500af31801b3de1bf06cd6386e3b6ec2f67e840",
+        "type": "zip"
       }
     }
   ]
