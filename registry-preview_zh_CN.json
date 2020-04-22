@@ -516,17 +516,17 @@
     },
     {
       "name": "yggdrasil-api",
-      "version": "4.3.1",
+      "version": "4.4.0",
       "title": "Yggdrasil API",
-      "description": "为皮肤站添加自定义 Yggdrasil API 支持，可配合 authlib-injector 等软件使用实现外置登录功能。",
+      "description": "Yggdrasil API + authlib-injector = ✨",
       "author": "printempw",
       "require": {
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/yggdrasil-api_4.3.1.zip",
-        "shasum": "c1e7d9328071f69d8f546c0f48f51bad1d686ef0aca9abef48cf7b09c53026f1"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/yggdrasil-api_4.4.0.zip",
+        "shasum": "46192dbca7d6c715bb863a3a8500af31801b3de1bf06cd6386e3b6ec2f67e840"
       }
     }
   ]
