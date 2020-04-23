@@ -110,17 +110,17 @@
     },
     {
       "name": "fix-v4-update",
-      "version": "0.1.0",
-      "title": "修复 v4 更新",
-      "description": "修复 v4 的后台更新",
+      "version": "0.2.0",
+      "title": "Fix v4 Update",
+      "description": "Fix v4 update.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^4.0.0"
       },
       "dist": {
         "type": "zip",
-        "shasum": "02069b2d9e083b2c2b82b113e50e6f45c16260170580b288e5a19beb2deab475",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/fix-v4-update_0.1.0.zip"
+        "shasum": "4a4ac4e8b9864d19b1ec1ceb614bbf1d1d68a7b44d18eba92291c661b5f3fe5a",
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/fix-v4-update_0.2.0.zip"
       }
     },
     {
