@@ -351,7 +351,7 @@
     },
     {
       "name": "purge-azure-global-cdn",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "title": "刷新 Azure 国际版 CDN",
       "description": "当资源被更新时，自动刷新 Azure 国际版 CDN 的缓存。不适用于 Azure 中国版。",
       "author": "Honoka Tech LTD(GB)",
@@ -360,13 +360,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/purge-azure-global-cdn_1.1.0.zip",
-        "shasum": "0a634c050c1de13efba780d0c23744be709a2bc8d83ca368c8b0cac271b9dc93"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/purge-azure-global-cdn_1.1.1.zip",
+        "shasum": "85208c7721afb313feaa591eaab67324cf0a782cf864a4b1aec9b01474ebf9cf"
       }
     },
     {
       "name": "refresh-qcloud-cdn",
-      "version": "2.1.1",
+      "version": "2.1.2",
       "title": "刷新腾讯云 CDN",
       "description": "当角色信息被更新时，自动刷新 CDN 中的 JSON Profile。",
       "author": "GPlane",
@@ -375,8 +375,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/refresh-qcloud-cdn_2.1.1.zip",
-        "shasum": "214fbef89f95d2877f544118e531df0325ff7ee20ceda18ba41ccdca6e421a07"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/refresh-qcloud-cdn_2.1.2.zip",
+        "shasum": "a463f782ffcf9812ad43c98a8e949a0f1c7d8c5f4f708d3d00a98f3a5bc03c03"
       }
     },
     {
