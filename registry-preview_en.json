@@ -94,21 +94,6 @@
       }
     },
     {
-      "name": "example-plugin",
-      "version": "3.0.2",
-      "title": "示例插件",
-      "description": "可以直接创建此插件的副本并在其基础上开发新的插件，其代码也兼具插件开发文档功能",
-      "author": "printempw",
-      "require": {
-        "blessing-skin-server": "^5.0.0"
-      },
-      "dist": {
-        "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/example-plugin_3.0.2.zip",
-        "shasum": "b41c599c09c37d9b49d13d24af43a86a265cc1b3a7f40c1459b5e043c300a87e"
-      }
-    },
-    {
       "name": "fix-v4-update",
       "version": "0.2.0",
       "title": "Fix v4 Update",
