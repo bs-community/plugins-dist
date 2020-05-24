@@ -246,7 +246,7 @@
     },
     {
       "name": "oauth-github",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "title": "使用 GitHub 登录",
       "description": "用 GitHub 账号来登录皮肤站",
       "author": "GPlane",
@@ -255,13 +255,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-github_0.1.3.zip",
-        "shasum": "2fcf639ffb449d06e0fd3451b394da0e8f7dfe9900e8f6376ef1e5f62ed0c468"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-github_0.1.4.zip",
+        "shasum": "bb4e873e037f2d7ffe9d3c298c494a8609a031084b5bdeb43a269fed0384108d"
       }
     },
     {
       "name": "oauth-littleskin",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "title": "使用 LittleSkin 登录",
       "description": "用 LittleSkin 账号来登录皮肤站",
       "author": "Asnxthaony",
@@ -270,13 +270,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-littleskin_0.1.4.zip",
-        "shasum": "8b522e39c5bcc54de82028b8baf93864236c542ced34a76bc34731a6236473ed"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-littleskin_0.1.5.zip",
+        "shasum": "16fc57cf2fb939eb6979c0fb30569b206b098fe8828e7c24e72f7f7f1f1f9e99"
       }
     },
     {
       "name": "oauth-microsoft-live",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "title": "使用 Microsoft Live 登录",
       "description": "通过 Microsoft Live 来登录皮肤站",
       "author": "GPlane",
@@ -285,8 +285,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.1.3.zip",
-        "shasum": "2c835674223639fece782ead657ea7769ff0e6026c0c23aa55df8a9b0e4ee470"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.1.4.zip",
+        "shasum": "b3ad08b9129eef65223f1c2889d42f61619410aa29984ac7e4d87eb1bcc709bc"
       }
     },
     {
