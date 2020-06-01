@@ -63,6 +63,21 @@
       "version": "2.0.1"
     },
     {
+      "name": "fix-v4-update",
+      "version": "0.2.0",
+      "title": "修复 v4 更新",
+      "description": "修复 v4 的后台更新",
+      "author": "GPlane",
+      "require": {
+        "blessing-skin-server": "^4.0.0"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/fix-v4-update_0.2.0.zip",
+        "shasum": "4a4ac4e8b9864d19b1ec1ceb614bbf1d1d68a7b44d18eba92291c661b5f3fe5a"
+      }
+    },
+    {
       "description": "与 Discuz、Phpwind、Flarum 论坛程序进行数据对接，让玩家可以使用论坛的账号密码登录皮肤站，反之亦可。启用之前请仔细阅读使用说明 👉 http://t.cn/RDEq0aH",
       "dist": {
         "type": "zip",
