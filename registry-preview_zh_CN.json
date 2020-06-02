@@ -18,7 +18,7 @@
     },
     {
       "name": "authme-integration",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "title": "Authme 数据对接",
       "description": "与 Authme 进行数据对接，让玩家可以使用皮肤站的账号密码登录游戏。",
       "author": "printempw",
@@ -28,8 +28,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/authme-integration_2.2.2.zip",
-        "shasum": "e0e80653cd070135fd6da019c8a5a07105c98dce9a602307b00ae8aee61b4022"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/authme-integration_2.2.3.zip",
+        "shasum": "c5378cf8671d5ee992c93d09fb7d725073cc7e186b0cb60a263699c59d9cb814"
       }
     },
     {
@@ -291,7 +291,7 @@
     },
     {
       "name": "password-algorithm-transition",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "title": "密码算法切换",
       "description": "将站点的密码算法进行渐进式的切换。",
       "author": "GPlane",
@@ -300,8 +300,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/password-algorithm-transition_2.1.0.zip",
-        "shasum": "3a46856edda8e810bcbc616c98415335adc1ebab523d84fdb0bd8bf124642d17"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/password-algorithm-transition_2.1.1.zip",
+        "shasum": "6de37854b202818e255d5b110167ab8011dd13dc9ff0f0dc57ae165b54f2e464"
       }
     },
     {
