@@ -231,7 +231,7 @@
     },
     {
       "name": "mojang-verification",
-      "version": "1.8.1",
+      "version": "1.9.0",
       "title": "正版验证",
       "description": "为拥有正版账号的用户提供验证、绑定。",
       "author": "GPlane",
@@ -240,8 +240,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.8.1.zip",
-        "shasum": "c298dd2c1b81d7f0c9c9b02ea4deaaf23b764c76f3c4eee81c8dfa62452c0b36"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.9.0.zip",
+        "shasum": "aa0aebb1d06e3acd4683c490b42a9cda0c6e1c9d806f1e02dd2d98df4924504c"
       }
     },
     {
@@ -501,7 +501,7 @@
     },
     {
       "name": "yggdrasil-api",
-      "version": "4.5.0",
+      "version": "4.5.1",
       "title": "Yggdrasil API",
       "description": "Yggdrasil API + authlib-injector = ✨",
       "author": "printempw",
@@ -510,8 +510,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/yggdrasil-api_4.5.0.zip",
-        "shasum": "7607b8a6e792a8b6a71cf039ae0856d368ae15e02fd633ecc6caa407966244db"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/yggdrasil-api_4.5.1.zip",
+        "shasum": "bb14bbd9c89808a3cc5bca75c256eeeed26be42c2cc160a9e701890b0cd6e10f"
       }
     }
   ]
