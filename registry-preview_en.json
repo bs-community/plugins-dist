@@ -396,17 +396,17 @@
     },
     {
       "name": "single-player-limit",
-      "version": "2.1.0",
+      "version": "3.0.0",
       "title": "Single Player Limitation",
       "description": "Enforce each user can own only one user.",
       "author": "GPlane",
       "require": {
-        "blessing-skin-server": ">=4.0.0"
+        "blessing-skin-server": "^5.0.0"
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/single-player-limit_2.1.0.zip",
-        "shasum": "43d4538edabab64e287e69f35422a3d345d5d442c794e4ffd5980877eb09d176"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/single-player-limit_3.0.0.zip",
+        "shasum": "d5ed2ded998f43def738c0a2ba6d7d56769111f2b203cc18062d339bb5feace7"
       }
     },
     {
