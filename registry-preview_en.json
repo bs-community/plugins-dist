@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "204-for-unexisted-players",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "title": "返回 204",
       "description": "对请求不存在的角色的 JSON Profile 返回 204",
       "author": "GPlane",
@@ -12,8 +12,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/204-for-unexisted-players_0.1.1.zip",
-        "shasum": "4e55d1a23a87ff6d511aad6680d9e048d03e4d04861fee4b7053962500b968aa"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/204-for-unexisted-players_0.1.2.zip",
+        "shasum": "ae412115ca62b458484a1a2f392edb78744a179b316d879e703c3777051f3705"
       }
     },
     {
