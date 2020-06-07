@@ -501,7 +501,7 @@
     },
     {
       "name": "yggdrasil-api",
-      "version": "4.7.0",
+      "version": "4.7.1",
       "title": "Yggdrasil API",
       "description": "Yggdrasil API + authlib-injector = ✨",
       "author": "printempw",
@@ -510,8 +510,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/yggdrasil-api_4.7.0.zip",
-        "shasum": "0f04b86dc29dfe79a6b4f3705c1de25e5f77ae6dcacb0805d95c1577a03622a3"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/yggdrasil-api_4.7.1.zip",
+        "shasum": "938b53b5e8b2932658e134535b095b9ab8230de47178509a133286d7245729f9"
       }
     }
   ]
