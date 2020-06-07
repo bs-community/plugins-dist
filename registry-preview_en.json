@@ -245,48 +245,66 @@
       }
     },
     {
-      "name": "oauth-github",
-      "version": "0.1.4",
-      "title": "使用 GitHub 登录",
-      "description": "用 GitHub 账号来登录皮肤站",
+      "name": "oauth",
+      "version": "1.0.0",
+      "title": "OAuth Client Core",
+      "description": "Core plugin of OAuth client.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-github_0.1.4.zip",
-        "shasum": "bb4e873e037f2d7ffe9d3c298c494a8609a031084b5bdeb43a269fed0384108d"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth_1.0.0.zip",
+        "shasum": "8eb18e61c86e10ade0773e1507027cf7135c46b548e1f64a0ee42bd91b0e94d4"
+      }
+    },
+    {
+      "name": "oauth-github",
+      "version": "0.2.0",
+      "title": "Log In with GitHub",
+      "description": "Log in skin server with GitHub.",
+      "author": "GPlane",
+      "require": {
+        "blessing-skin-server": "^5.0.0",
+        "oauth": "^1.0.0"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-github_0.2.0.zip",
+        "shasum": "b1633d5c81a5c406e23fa8841a067008c4a7063ad47f78ebd38b76b16e9bba98"
       }
     },
     {
       "name": "oauth-littleskin",
-      "version": "0.1.5",
-      "title": "使用 LittleSkin 登录",
-      "description": "用 LittleSkin 账号来登录皮肤站",
+      "version": "0.2.0",
+      "title": "Log In with LittleSkin",
+      "description": "Log in skin server with LittleSkin account.",
       "author": "Asnxthaony",
       "require": {
-        "blessing-skin-server": "^5.0.0"
+        "blessing-skin-server": "^5.0.0",
+        "oauth": "^1.0.0"
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-littleskin_0.1.5.zip",
-        "shasum": "16fc57cf2fb939eb6979c0fb30569b206b098fe8828e7c24e72f7f7f1f1f9e99"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-littleskin_0.2.0.zip",
+        "shasum": "cdd63aa19d877d755a1043d787f75388ca6075f4504478f348ab99e7afb2ec09"
       }
     },
     {
       "name": "oauth-microsoft-live",
-      "version": "0.1.4",
-      "title": "使用 Microsoft Live 登录",
-      "description": "通过 Microsoft Live 来登录皮肤站",
+      "version": "0.2.0",
+      "title": "Log In with Microsoft Live",
+      "description": "Log in skin server with Microsoft Live.",
       "author": "GPlane",
       "require": {
-        "blessing-skin-server": "^5.0.0"
+        "blessing-skin-server": "^5.0.0",
+        "oauth": "^1.0.0"
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.1.4.zip",
-        "shasum": "b3ad08b9129eef65223f1c2889d42f61619410aa29984ac7e4d87eb1bcc709bc"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.2.0.zip",
+        "shasum": "f11c41ce3293b6625b30bc9677a51ced58deef7dc90c866b17f826355ace977d"
       }
     },
     {
