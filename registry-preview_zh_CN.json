@@ -293,7 +293,7 @@
     },
     {
       "name": "oauth-microsoft-live",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "title": "使用 Microsoft Live 登录",
       "description": "通过 Microsoft Live 来登录皮肤站",
       "author": "GPlane",
@@ -303,8 +303,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.2.0.zip",
-        "shasum": "f11c41ce3293b6625b30bc9677a51ced58deef7dc90c866b17f826355ace977d"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.2.1.zip",
+        "shasum": "ce37de7107acf0b79e88e53e662c4e649dae364d8b0f986f22ec2507300854b8"
       }
     },
     {
