@@ -276,6 +276,22 @@
       }
     },
     {
+      "name": "oauth-google",
+      "version": "0.1.0",
+      "title": "使用 Google 登录",
+      "description": "用 Google 账号来登录皮肤站",
+      "author": "GPlane",
+      "require": {
+        "blessing-skin-server": "^5.0.0",
+        "oauth": "^1.0.0"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-google_0.1.0.zip",
+        "shasum": "d7c72774d01c06c2f4426c2c8acd558c24721363ba47a1909f0fcf38f9588529"
+      }
+    },
+    {
       "name": "oauth-littleskin",
       "version": "0.2.1",
       "title": "使用 LittleSkin 登录",
