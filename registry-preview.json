@@ -141,7 +141,7 @@
     },
     {
       "name": "hello-dolly",
-      "version": "1.2.1",
+      "version": "1.3.0",
       "title": "你好多莉",
       "description": "这不是普通的插件，它象征着一代人希望和热情，浓缩成Louis Armstrong的四个字：你好，多莉。在启用后，在您站点后台每个页面的右上角都可以看到一句来自《俏红娘》音乐剧的英文原版台词。",
       "author": "Matt Mullenweg",
@@ -150,8 +150,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/hello-dolly_1.2.1.zip",
-        "shasum": "1293857ce0cac04fbc305973966eaf4cb1451809452743b247a30994e17d4109"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/hello-dolly_1.3.0.zip",
+        "shasum": "a8358343d104b9df96643b2f55812ea26b82eed468549366552dfb2dfeced3d6"
       }
     },
     {

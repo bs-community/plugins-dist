@@ -141,7 +141,7 @@
     },
     {
       "name": "hello-dolly",
-      "version": "1.2.1",
+      "version": "1.3.0",
       "title": "Hello Dolly",
       "description": "This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.",
       "author": "Matt Mullenweg",
@@ -150,8 +150,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/hello-dolly_1.2.1.zip",
-        "shasum": "1293857ce0cac04fbc305973966eaf4cb1451809452743b247a30994e17d4109"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/hello-dolly_1.3.0.zip",
+        "shasum": "a8358343d104b9df96643b2f55812ea26b82eed468549366552dfb2dfeced3d6"
       }
     },
     {
