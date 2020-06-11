@@ -277,7 +277,7 @@
     },
     {
       "name": "oauth-littleskin",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "title": "使用 LittleSkin 登录",
       "description": "用 LittleSkin 账号来登录皮肤站",
       "author": "Asnxthaony",
@@ -287,8 +287,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-littleskin_0.2.0.zip",
-        "shasum": "cdd63aa19d877d755a1043d787f75388ca6075f4504478f348ab99e7afb2ec09"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-littleskin_0.2.1.zip",
+        "shasum": "19c6956a1ef553df506e3ea0d812eb25bb378bb470f01c5bee93a94c896b297f"
       }
     },
     {
