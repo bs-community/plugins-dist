@@ -261,7 +261,7 @@
     },
     {
       "name": "oauth-github",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "title": "使用 GitHub 登录",
       "description": "用 GitHub 账号来登录皮肤站",
       "author": "GPlane",
@@ -271,8 +271,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-github_0.2.0.zip",
-        "shasum": "b1633d5c81a5c406e23fa8841a067008c4a7063ad47f78ebd38b76b16e9bba98"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-github_0.2.1.zip",
+        "shasum": "7a8d814a1e6cf3c3213c088b126cf1bbe0dd2266a5758cbe6cb7f86de61b093c"
       }
     },
     {
@@ -293,7 +293,7 @@
     },
     {
       "name": "oauth-microsoft-live",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "title": "使用 Microsoft Live 登录",
       "description": "通过 Microsoft Live 来登录皮肤站",
       "author": "GPlane",
@@ -303,8 +303,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.2.1.zip",
-        "shasum": "ce37de7107acf0b79e88e53e662c4e649dae364d8b0f986f22ec2507300854b8"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.2.2.zip",
+        "shasum": "f5274b41ef9fc123674b15ea42640353b286c324a4b04c8b4ddf42e8335cc25e"
       }
     },
     {
