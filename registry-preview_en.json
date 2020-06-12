@@ -246,7 +246,7 @@
     },
     {
       "name": "oauth",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "OAuth Client Core",
       "description": "Core plugin of OAuth client.",
       "author": "GPlane",
@@ -255,8 +255,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth_1.0.0.zip",
-        "shasum": "8eb18e61c86e10ade0773e1507027cf7135c46b548e1f64a0ee42bd91b0e94d4"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth_1.0.1.zip",
+        "shasum": "15d97d037f416bd56c9fd39519c981176438c0ba72fb16c5604921206d3a9a24"
       }
     },
     {
