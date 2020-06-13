@@ -216,17 +216,17 @@
     },
     {
       "name": "legacy-api",
-      "version": "1.1.1",
-      "title": "传统皮肤加载方式",
-      "description": "提供传统的皮肤加载方式，即直接访问角色名。",
+      "version": "1.1.2",
+      "title": "Legacy Skin Loading",
+      "description": "Provides legacy loading which is based on player name.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/legacy-api_1.1.1.zip",
-        "shasum": "76d95dfaa0ffcc83d388d799b974cc321baba37a4d2195a164d95fdd790da00b"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/legacy-api_1.1.2.zip",
+        "shasum": "98d690e95d25a6e54a581f3c1a55d659f78ec995f35e496547e1994a522c480b"
       }
     },
     {
