@@ -520,7 +520,7 @@
     },
     {
       "name": "usm-api",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "title": "Universal Skin API",
       "description": "Universal Skin Mod API",
       "author": "GPlane",
@@ -529,8 +529,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/usm-api_1.2.0.zip",
-        "shasum": "2ee42e61ecdcc0251d96f14f6a82e5b58aa4c2a8ddc488342682154e1c0fbd8a"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/usm-api_1.2.1.zip",
+        "shasum": "ab5515f8de0b2dc1283ccac547a1ae16f3acabdd38e1d76734fc4b186a7f96e6"
       }
     },
     {
