@@ -64,6 +64,21 @@
       }
     },
     {
+      "name": "disable-registration",
+      "version": "1.0.0",
+      "title": "关闭注册功能",
+      "description": "关闭注册功能",
+      "author": "GPlane",
+      "require": {
+        "blessing-skin-server": "^5.0.0"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/disable-registration_1.0.0.zip",
+        "shasum": "fe4e4c75f37664b4cbe0f9c884093c89e2abbd9e1b80179f39c82d74ac6130e7"
+      }
+    },
+    {
       "name": "embedded-comment",
       "version": "1.0.3",
       "title": "嵌入第三方评论",
