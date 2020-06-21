@@ -445,7 +445,7 @@
     },
     {
       "name": "single-player-limit",
-      "version": "3.0.0",
+      "version": "3.0.1",
       "title": "单角色限制",
       "description": "限制一个用户至多只能拥有一个角色。",
       "author": "GPlane",
@@ -454,8 +454,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/single-player-limit_3.0.0.zip",
-        "shasum": "d5ed2ded998f43def738c0a2ba6d7d56769111f2b203cc18062d339bb5feace7"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/single-player-limit_3.0.1.zip",
+        "shasum": "947fca70799dba65693028d443b0602f2e2b1a1964a0b62bd1648703219821d5"
       }
     },
     {
