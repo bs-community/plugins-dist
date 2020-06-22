@@ -216,17 +216,17 @@
     },
     {
       "name": "invitation-codes",
-      "version": "3.0.0",
-      "title": "注册邀请码",
-      "description": "在管理后台生成邀请码，只有持有邀请码才可以注册成为本站用户。",
+      "version": "3.1.0",
+      "title": "Registration Invitation Codes",
+      "description": "Require invitation codes for users when registering.",
       "author": "printempw",
       "require": {
         "blessing-skin-server": "^5.0.0"
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/invitation-codes_3.0.0.zip",
-        "shasum": "5e4a2010fae305e54e054e35d0441eaa0b83fd458898771dd30118ee22ac00a8"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/invitation-codes_3.1.0.zip",
+        "shasum": "ae91820c49a8ff50db3f377968967faa2ddd42300964844a4955edc061c62584"
       }
     },
     {
