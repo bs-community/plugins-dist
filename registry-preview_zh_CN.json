@@ -429,6 +429,21 @@
       }
     },
     {
+      "name": "restricted-email-domains",
+      "version": "0.1.0",
+      "title": "邮箱域名限制",
+      "description": "限制用户注册时所使用的邮箱",
+      "author": "GPlane",
+      "require": {
+        "blessing-skin-server": "^5.0.0"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/restricted-email-domains_0.1.0.zip",
+        "shasum": "3e8045a5137ed99de8ed7d628a756622086051a9296a84d21282b5be6d92ce19"
+      }
+    },
+    {
       "name": "share-registration-link",
       "version": "2.0.0",
       "title": "分享注册链接",
