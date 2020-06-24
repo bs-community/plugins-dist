@@ -399,6 +399,21 @@
       }
     },
     {
+      "name": "refresh-ali-cdn",
+      "version": "1.0.0",
+      "title": "刷新阿里云 CDN",
+      "description": "当角色信息被更新时，自动刷新阿里云 CDN 中的 JSON Profile。",
+      "author": "hank9999",
+      "require": {
+        "blessing-skin-server": "^5.0.0"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/refresh-ali-cdn_1.0.0.zip",
+        "shasum": "c4a06d9858993ebca0a334480ee3bfd26f7c91dac6fb79dac19968497cbc62a5"
+      }
+    },
+    {
       "name": "refresh-qcloud-cdn",
       "version": "2.1.2",
       "title": "刷新腾讯云 CDN",
