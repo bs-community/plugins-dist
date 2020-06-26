@@ -155,7 +155,7 @@
       }
     },
     {
-      "name": "gtag.js",
+      "name": "gtag-js",
       "version": "0.1.0",
       "title": "gtag.js",
       "description": "Blessing\\Gtag::general.description",
@@ -165,8 +165,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/gtag.js_0.1.0.zip",
-        "shasum": "fa6fce6334718c25992e751f9ca515f02edd41ff07ca994d3673166df1a258f9"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/gtag-js_0.1.0.zip",
+        "shasum": "a07661af085298299111688436be9e3ec5a862cc77ba4d30b9a0766f5486c27c"
       }
     },
     {
