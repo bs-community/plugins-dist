@@ -185,6 +185,21 @@
       }
     },
     {
+      "name": "hide-advanced-menu",
+      "version": "1.0.0",
+      "title": "Hide \"Advanced\" Menu",
+      "description": "Hide \"Advanced\" menu at left side bar.",
+      "author": "GPlane",
+      "require": {
+        "blessing-skin-server": "^5.0.0"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/hide-advanced-menu_1.0.0.zip",
+        "shasum": "7a864cd4c152369371c8246932565cf8593377e2a103499ba3eaef179e8bf73e"
+      }
+    },
+    {
       "name": "hitokoto",
       "version": "1.3.0",
       "title": "一言",
