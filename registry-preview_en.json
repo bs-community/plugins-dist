@@ -110,7 +110,7 @@
     },
     {
       "name": "fix-v4-update",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "title": "Fix v4 Update",
       "description": "Fix v4 update.",
       "author": "GPlane",
@@ -119,8 +119,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/fix-v4-update_0.2.0.zip",
-        "shasum": "4a4ac4e8b9864d19b1ec1ceb614bbf1d1d68a7b44d18eba92291c661b5f3fe5a"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/fix-v4-update_0.2.1.zip",
+        "shasum": "bd6b1ea3a1d578c8beffaee076bbdf3dda252114368dfc3fae179dd7689f64ed"
       }
     },
     {
