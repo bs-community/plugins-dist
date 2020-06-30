@@ -276,7 +276,7 @@
     },
     {
       "name": "mojang-verification",
-      "version": "1.9.3",
+      "version": "1.10.0",
       "title": "正版验证",
       "description": "为拥有正版账号的用户提供验证、绑定。",
       "author": "GPlane",
@@ -285,8 +285,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.9.3.zip",
-        "shasum": "98c2476ee6efdbc7f329a92b8c27ffd6757408c4832ae131379d6dbf1df7e65c"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.10.0.zip",
+        "shasum": "08b33da45b5cfa5c6361b5e168525d90dfdaa771e32052337b8363b152cf7a38"
       }
     },
     {
