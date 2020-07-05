@@ -291,7 +291,7 @@
     },
     {
       "name": "oauth",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "title": "OAuth Client Core",
       "description": "Core plugin of OAuth client.",
       "author": "GPlane",
@@ -300,13 +300,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth_1.0.1.zip",
-        "shasum": "15d97d037f416bd56c9fd39519c981176438c0ba72fb16c5604921206d3a9a24"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth_1.0.2.zip",
+        "shasum": "beaa17fb3fb82735be712758840475d2bb999ecacbe689e900409aca7c27b440"
       }
     },
     {
       "name": "oauth-github",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "title": "Log In with GitHub",
       "description": "Log in skin server with GitHub.",
       "author": "GPlane",
@@ -316,13 +316,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-github_0.2.1.zip",
-        "shasum": "7a8d814a1e6cf3c3213c088b126cf1bbe0dd2266a5758cbe6cb7f86de61b093c"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-github_0.2.2.zip",
+        "shasum": "97678baff772ccd4703a5ca9335abd95b89e92796ce8e7b630efafe65751247d"
       }
     },
     {
       "name": "oauth-google",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "title": "Log In with Google",
       "description": "Log in skin server with Google.",
       "author": "GPlane",
@@ -332,13 +332,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-google_0.1.0.zip",
-        "shasum": "d7c72774d01c06c2f4426c2c8acd558c24721363ba47a1909f0fcf38f9588529"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-google_0.1.1.zip",
+        "shasum": "30caf81509da52b28aa2b7a8ad37bf5ea32351142824f875558bbf8208300aca"
       }
     },
     {
       "name": "oauth-littleskin",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "title": "Log In with LittleSkin",
       "description": "Log in skin server with LittleSkin account.",
       "author": "Asnxthaony",
@@ -348,13 +348,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-littleskin_0.2.1.zip",
-        "shasum": "19c6956a1ef553df506e3ea0d812eb25bb378bb470f01c5bee93a94c896b297f"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-littleskin_0.2.2.zip",
+        "shasum": "66e82f5fe5182617971eca224be68b1bd5aaa09febdf6cf05076b275bf1db0a2"
       }
     },
     {
       "name": "oauth-microsoft-live",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "title": "Log In with Microsoft Live",
       "description": "Log in skin server with Microsoft Live.",
       "author": "GPlane",
@@ -364,8 +364,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.2.2.zip",
-        "shasum": "f5274b41ef9fc123674b15ea42640353b286c324a4b04c8b4ddf42e8335cc25e"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.2.3.zip",
+        "shasum": "178b0a0dba0bb4c16a8baa364f047f6c661616a81765259210613d9914005fdd"
       }
     },
     {
