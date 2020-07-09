@@ -370,7 +370,7 @@
     },
     {
       "name": "password-algorithm-transition",
-      "version": "2.1.1",
+      "version": "2.2.0",
       "title": "密码算法切换",
       "description": "将站点的密码算法进行渐进式的切换。",
       "author": "GPlane",
@@ -379,8 +379,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/password-algorithm-transition_2.1.1.zip",
-        "shasum": "6de37854b202818e255d5b110167ab8011dd13dc9ff0f0dc57ae165b54f2e464"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/password-algorithm-transition_2.2.0.zip",
+        "shasum": "36b758f15bee7306b6f526eeb40d15f69e9ad5a5c86ece6cc66480c30ce69530"
       }
     },
     {
