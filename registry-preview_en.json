@@ -276,7 +276,7 @@
     },
     {
       "name": "mojang-verification",
-      "version": "1.11.1",
+      "version": "1.12.0",
       "title": "Mojang Verification",
       "description": "Provides verification and binding support for paid Minecraft user.",
       "author": "GPlane",
@@ -285,8 +285,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.11.1.zip",
-        "shasum": "d316d18effe7291b00ed27b7c643f711c7ff36b02182ff68f3d41e889afb820a"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.12.0.zip",
+        "shasum": "32420d35c66d4f9555aabfd3d50a6a1bf1e686d7ff587fe551bb67c9919a04b9"
       }
     },
     {
