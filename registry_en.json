@@ -4,8 +4,8 @@
     {
       "name": "204-for-unexisted-players",
       "version": "0.1.3",
-      "title": "返回 204",
-      "description": "对请求不存在的角色的 JSON Profile 返回 204",
+      "title": "Respond with 204",
+      "description": "Respond with 204 when requesting a non-existed player.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
@@ -35,8 +35,8 @@
     {
       "name": "batch-import",
       "version": "4.1.0",
-      "title": "批量导入",
-      "description": "批量导入材质至皮肤库。",
+      "title": "Batch Import",
+      "description": "Import textures to skin library.",
       "author": "printempw",
       "require": {
         "blessing-skin-server": "^5.0.0",
@@ -51,8 +51,8 @@
     {
       "name": "config-generator",
       "version": "3.2.0",
-      "title": "配置生成",
-      "description": "在用户中心添加自动生成皮肤 Mod 配置的页面。",
+      "title": "Config Generator",
+      "description": "Generate configurations of skin mods.",
       "author": "printempw",
       "require": {
         "blessing-skin-server": "^5.0.0"
@@ -66,8 +66,8 @@
     {
       "name": "disable-registration",
       "version": "1.0.1",
-      "title": "关闭注册功能",
-      "description": "关闭注册功能",
+      "title": "Disable Registration",
+      "description": "Disable Registration",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
@@ -81,8 +81,8 @@
     {
       "name": "embedded-comment",
       "version": "1.0.3",
-      "title": "嵌入第三方评论",
-      "description": "向材质详情页中嵌入第三方评论系统",
+      "title": "Embedded Comment",
+      "description": "Integrate 3rd-party comment service to texture detail page.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
@@ -111,8 +111,8 @@
     {
       "name": "fix-v4-update",
       "version": "0.2.1",
-      "title": "修复 v4 更新",
-      "description": "修复 v4 的后台更新",
+      "title": "Fix v4 Update",
+      "description": "Fix v4 update.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^4.0.0"
@@ -172,8 +172,8 @@
     {
       "name": "hello-dolly",
       "version": "1.3.0",
-      "title": "你好多莉",
-      "description": "这不是普通的插件，它象征着一代人希望和热情，浓缩成Louis Armstrong的四个字：你好，多莉。在启用后，在您站点后台每个页面的右上角都可以看到一句来自《俏红娘》音乐剧的英文原版台词。",
+      "title": "Hello Dolly",
+      "description": "This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.",
       "author": "Matt Mullenweg",
       "require": {
         "blessing-skin-server": "*"
@@ -187,8 +187,8 @@
     {
       "name": "hide-advanced-menu",
       "version": "1.0.0",
-      "title": "隐藏「高级功能」菜单",
-      "description": "隐藏左侧的「高级功能」菜单。",
+      "title": "Hide \"Advanced\" Menu",
+      "description": "Hide \"Advanced\" menu at left side bar.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
@@ -247,8 +247,8 @@
     {
       "name": "invitation-codes",
       "version": "3.1.0",
-      "title": "注册邀请码",
-      "description": "在管理后台生成邀请码，只有持有邀请码才可以注册成为本站用户。",
+      "title": "Registration Invitation Codes",
+      "description": "Require invitation codes for users when registering.",
       "author": "printempw",
       "require": {
         "blessing-skin-server": "^5.0.0"
@@ -262,8 +262,8 @@
     {
       "name": "legacy-api",
       "version": "1.1.2",
-      "title": "传统皮肤加载方式",
-      "description": "提供传统的皮肤加载方式，即直接访问角色名。",
+      "title": "Legacy Skin Loading",
+      "description": "Provides legacy loading which is based on player name.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
@@ -277,8 +277,8 @@
     {
       "name": "mojang-verification",
       "version": "1.12.0",
-      "title": "正版验证",
-      "description": "为拥有正版账号的用户提供验证、绑定。",
+      "title": "Mojang Verification",
+      "description": "Provides verification and binding support for paid Minecraft user.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
@@ -292,8 +292,8 @@
     {
       "name": "oauth",
       "version": "1.0.2",
-      "title": "OAuth 客户端核心",
-      "description": "OAuth 客户端核心插件",
+      "title": "OAuth Client Core",
+      "description": "Core plugin of OAuth client.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
@@ -307,8 +307,8 @@
     {
       "name": "oauth-github",
       "version": "0.2.2",
-      "title": "使用 GitHub 登录",
-      "description": "用 GitHub 账号来登录皮肤站",
+      "title": "Log In with GitHub",
+      "description": "Log in skin server with GitHub.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0",
@@ -323,8 +323,8 @@
     {
       "name": "oauth-google",
       "version": "0.1.1",
-      "title": "使用 Google 登录",
-      "description": "用 Google 账号来登录皮肤站",
+      "title": "Log In with Google",
+      "description": "Log in skin server with Google.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0",
@@ -339,8 +339,8 @@
     {
       "name": "oauth-littleskin",
       "version": "0.2.4",
-      "title": "使用 LittleSkin 登录",
-      "description": "用 LittleSkin 账号来登录皮肤站",
+      "title": "Log In with LittleSkin",
+      "description": "Log in skin server with LittleSkin account.",
       "author": "Asnxthaony",
       "require": {
         "blessing-skin-server": "^5.0.0",
@@ -355,8 +355,8 @@
     {
       "name": "oauth-microsoft-live",
       "version": "0.2.3",
-      "title": "使用 Microsoft Live 登录",
-      "description": "通过 Microsoft Live 来登录皮肤站",
+      "title": "Log In with Microsoft Live",
+      "description": "Log in skin server with Microsoft Live.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0",
@@ -371,8 +371,8 @@
     {
       "name": "password-algorithm-transition",
       "version": "2.2.0",
-      "title": "密码算法切换",
-      "description": "将站点的密码算法进行渐进式的切换。",
+      "title": "Password Algorithm Transition",
+      "description": "Switch to another password hashing algorithm progressively.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
@@ -476,8 +476,8 @@
     {
       "name": "restricted-email-domains",
       "version": "0.1.1",
-      "title": "邮箱域名限制",
-      "description": "限制用户注册时所使用的邮箱",
+      "title": "Email Domains Restriction",
+      "description": "Restrict email domain names for registration.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
@@ -506,8 +506,8 @@
     {
       "name": "single-player-limit",
       "version": "3.0.1",
-      "title": "单角色限制",
-      "description": "限制一个用户至多只能拥有一个角色。",
+      "title": "Single Player Limitation",
+      "description": "Enforce each user can own only one user.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
@@ -521,8 +521,8 @@
     {
       "name": "texture-type-cast",
       "version": "0.3.0",
-      "title": "材质类型强制转换",
-      "description": "强制对全站的材质进行材质类型修改",
+      "title": "Texture Type Casting",
+      "description": "Force to cast types of all textures.",
       "author": "GPlane",
       "require": {
         "blessing-skin-server": "^5.0.0"
