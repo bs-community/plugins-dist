@@ -620,7 +620,7 @@
       "dist": {
         "type": "zip",
         "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/yggdrasil-api_4.10.0.zip",
-        "shasum": "57a5323a814425a9e4e5ef5030e4f7e3136a970de0128c89322ebf0f6cd32cd2"
+        "shasum": "303f1fde3e78093afcca9b943fbc08a22c7472dc4867c392e2b515800cffb73e"
       }
     }
   ]
