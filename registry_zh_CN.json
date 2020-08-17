@@ -519,6 +519,21 @@
       }
     },
     {
+      "name": "texture-description",
+      "version": "0.1.0",
+      "title": "材质描述",
+      "description": "允许用户为材质添加描述",
+      "author": "Steven Qiu & GPlane",
+      "require": {
+        "blessing-skin-server": "^5.0.0"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/texture-description_0.1.0.zip",
+        "shasum": "ff2df93927ca7ebe37d50d67006399951c86f6ad25b652b67073dbf419727275"
+      }
+    },
+    {
       "name": "texture-type-cast",
       "version": "0.3.0",
       "title": "材质类型强制转换",
