@@ -65,7 +65,7 @@
     },
     {
       "name": "disable-registration",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "title": "关闭注册功能",
       "description": "关闭注册功能",
       "author": "GPlane",
@@ -74,8 +74,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/disable-registration_1.0.1.zip",
-        "shasum": "0b4ea4d8dc4f5a3ee2466c2fbdfb736ab3c931105c9116051d036257cc8bd484"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/disable-registration_1.0.2.zip",
+        "shasum": "a2350f218670b537c7b01db9e17bb8e7d5ddbd4e7777af13017a73b760819024"
       }
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "name": "invitation-codes",
-      "version": "3.1.0",
+      "version": "3.1.1",
       "title": "注册邀请码",
       "description": "在管理后台生成邀请码，只有持有邀请码才可以注册成为本站用户。",
       "author": "printempw",
@@ -255,8 +255,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/invitation-codes_3.1.0.zip",
-        "shasum": "ae91820c49a8ff50db3f377968967faa2ddd42300964844a4955edc061c62584"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/invitation-codes_3.1.1.zip",
+        "shasum": "72922272422b09bbfc91063a75f73b44f55a2ab2ce8e7d14a78c28f04e67222a"
       }
     },
     {
@@ -276,7 +276,7 @@
     },
     {
       "name": "mojang-verification",
-      "version": "1.12.0",
+      "version": "1.12.1",
       "title": "正版验证",
       "description": "为拥有正版账号的用户提供验证、绑定。",
       "author": "GPlane",
@@ -285,13 +285,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.12.0.zip",
-        "shasum": "32420d35c66d4f9555aabfd3d50a6a1bf1e686d7ff587fe551bb67c9919a04b9"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.12.1.zip",
+        "shasum": "c3a3a8b67119ab7ca1e1c51a1acb99146da252c7ec5c74afb106d267183c81dd"
       }
     },
     {
       "name": "oauth",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "title": "OAuth 客户端核心",
       "description": "OAuth 客户端核心插件",
       "author": "GPlane",
@@ -300,8 +300,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth_1.0.2.zip",
-        "shasum": "beaa17fb3fb82735be712758840475d2bb999ecacbe689e900409aca7c27b440"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth_1.0.3.zip",
+        "shasum": "72926aff6cc0d7a69e54f2401bbeb9534623f6766967eca1321d320fcc8fb184"
       }
     },
     {
@@ -475,7 +475,7 @@
     },
     {
       "name": "restricted-email-domains",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "title": "邮箱域名限制",
       "description": "限制用户注册时所使用的邮箱",
       "author": "GPlane",
@@ -484,13 +484,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/restricted-email-domains_0.1.1.zip",
-        "shasum": "fdf90a4dfa8fcab14b5c16c5858327cb4a361b7472305dc886aa41ce73d1d870"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/restricted-email-domains_0.1.2.zip",
+        "shasum": "29bcabd8b7023425c1e03efb31666dea126350d1156a6964aa428ed4ee9c50a0"
       }
     },
     {
       "name": "share-registration-link",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "title": "分享注册链接",
       "description": "允许用户分享注册链接并获得积分",
       "author": "GPlane",
@@ -499,13 +499,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/share-registration-link_2.0.0.zip",
-        "shasum": "2dd6bc65f033a58d37547beecdf40af5bfebfcde771a40fe5a59ec96d06e31e8"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/share-registration-link_2.0.1.zip",
+        "shasum": "13196b342783cf1678e357792c58f04891e00bc450fa48dc6759c3aa40b4f40a"
       }
     },
     {
       "name": "single-player-limit",
-      "version": "3.0.1",
+      "version": "3.0.2",
       "title": "单角色限制",
       "description": "限制一个用户至多只能拥有一个角色。",
       "author": "GPlane",
@@ -514,8 +514,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/single-player-limit_3.0.1.zip",
-        "shasum": "947fca70799dba65693028d443b0602f2e2b1a1964a0b62bd1648703219821d5"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/single-player-limit_3.0.2.zip",
+        "shasum": "864b909f21b1d6f0a7c021bea67e99905aabb6a1b1cc7cc2fec48beb88033ce1"
       }
     },
     {
@@ -610,7 +610,7 @@
     },
     {
       "name": "usm-api",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "title": "Universal Skin API",
       "description": "Universal Skin Mod API",
       "author": "GPlane",
@@ -619,8 +619,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/usm-api_1.2.1.zip",
-        "shasum": "ab5515f8de0b2dc1283ccac547a1ae16f3acabdd38e1d76734fc4b186a7f96e6"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/usm-api_1.2.2.zip",
+        "shasum": "3dedc716eb34afd73fe631da3463252503e5615bb2f8446f9f593696dbee6b6a"
       }
     },
     {
