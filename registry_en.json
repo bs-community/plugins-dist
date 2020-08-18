@@ -109,6 +109,22 @@
       }
     },
     {
+      "name": "fast-login",
+      "version": "0.1.0",
+      "title": "FastLogin",
+      "description": "Insert a record to FastLogin when user passed Mojang verification.",
+      "author": "GPlane",
+      "require": {
+        "blessing-skin-server": "^5.0.0",
+        "mojang-verification": "^1.13.0"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/fast-login_0.1.0.zip",
+        "shasum": "4f7eb51e8aafb98bc2afe198c0fa6c9bc9b21ee5b5a3f1a6ea13338cce69cfa7"
+      }
+    },
+    {
       "name": "fix-v4-update",
       "version": "0.2.1",
       "title": "Fix v4 Update",
@@ -276,7 +292,7 @@
     },
     {
       "name": "mojang-verification",
-      "version": "1.12.1",
+      "version": "1.13.0",
       "title": "Mojang Verification",
       "description": "Provides verification and binding support for paid Minecraft user.",
       "author": "GPlane",
@@ -285,8 +301,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.12.1.zip",
-        "shasum": "c3a3a8b67119ab7ca1e1c51a1acb99146da252c7ec5c74afb106d267183c81dd"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.13.0.zip",
+        "shasum": "8489a99f70b080a7acf4acacaad6cff81aea60a57860257d41e75db44323287b"
       }
     },
     {
