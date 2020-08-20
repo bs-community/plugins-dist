@@ -50,7 +50,7 @@
     },
     {
       "name": "config-generator",
-      "version": "3.2.0",
+      "version": "3.2.1",
       "title": "Config Generator",
       "description": "Generate configurations of skin mods.",
       "author": "printempw",
@@ -59,8 +59,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/config-generator_3.2.0.zip",
-        "shasum": "5eef8333ea841f7f470a1b8cacd1b82bedf5a3f04bb2a699b3a67820c352b130"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/config-generator_3.2.1.zip",
+        "shasum": "6a54ea71cacb107a62bca30be630bcceaa4fbf4bee8c637509fb7a48b33aac38"
       }
     },
     {
@@ -141,7 +141,7 @@
     },
     {
       "name": "forum-integration",
-      "version": "4.1.0",
+      "version": "4.1.1",
       "title": "论坛数据对接",
       "description": "与 Discuz、Phpwind、Flarum 论坛程序进行数据对接，让玩家可以使用论坛的账号密码登录皮肤站，反之亦可。",
       "author": "printempw",
@@ -151,8 +151,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/forum-integration_4.1.0.zip",
-        "shasum": "bf5f45a9fb538db2e024e5d336a57daac72aea7d1301170ac8c60ff87c21093c"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/forum-integration_4.1.1.zip",
+        "shasum": "f5b50de419b9955c89e619266f53b78dfdf6c0a8e4be1ee7bfd80c591c5c61b8"
       }
     },
     {
@@ -566,7 +566,7 @@
     },
     {
       "name": "textures-aliyun-oss",
-      "version": "2.0.3",
+      "version": "2.0.4",
       "title": "阿里云对象存储 OSS",
       "description": "将用户上传的材质存储文件至阿里云 OSS 中。",
       "author": "printempw",
@@ -575,13 +575,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-aliyun-oss_2.0.3.zip",
-        "shasum": "ffe7ce0009a12a42159cd4aea83b5e97cb1eefbc94a8d317212b7b1f8fbd97e8"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-aliyun-oss_2.0.4.zip",
+        "shasum": "aede45d94cf7bdf95cafa033b5685af3bc75d47a89364261ce225c4d4b0110ec"
       }
     },
     {
       "name": "textures-qcloud-cos",
-      "version": "2.0.3",
+      "version": "2.0.4",
       "title": "腾讯云对象存储 COS",
       "description": "将用户上传的材质存储文件至腾讯云 COS 中。仅支持 COS v5。",
       "author": "printempw",
@@ -590,13 +590,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-qcloud-cos_2.0.3.zip",
-        "shasum": "fffed04027b2612fe8df9ab3607fed1e9fc0256a80aa335dc80694847e3007d2"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-qcloud-cos_2.0.4.zip",
+        "shasum": "8c40ddf2fcbadc0d20d335bdf5810c4575b86c38a000fec013273285930f56f1"
       }
     },
     {
       "name": "textures-qiniu-storage",
-      "version": "2.0.3",
+      "version": "2.0.4",
       "title": "七牛云存储",
       "description": "将用户上传的材质存储文件至七牛云存储中。",
       "author": "printempw",
@@ -605,8 +605,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-qiniu-storage_2.0.3.zip",
-        "shasum": "18ce366d8346d8729fbddf62c0d8f9938e317f7bf93e340b2921d821554fe40b"
+        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-qiniu-storage_2.0.4.zip",
+        "shasum": "c3d172b07b38658327547f61178350b791796cc49206dbb0a0d5ddc508fc1d77"
       }
     },
     {
