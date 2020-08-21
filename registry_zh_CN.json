@@ -110,7 +110,7 @@
     },
     {
       "name": "fast-login",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "title": "FastLogin",
       "description": "当用户通过正版验证时向 FastLogin 增加一条记录",
       "author": "GPlane",
@@ -120,8 +120,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/fast-login_0.1.1.zip",
-        "shasum": "5ae4ca34b840488f26dcd97c2eaff41166d6172982fe6184b899994328f31567"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/fast-login_0.1.2.zip",
+        "shasum": "b3bbfcc1c84028c985127c7aad3879b6ded0bdcb9855f2ed07b36857109c19b2"
       }
     },
     {
