@@ -536,7 +536,7 @@
     },
     {
       "name": "texture-description",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Texture Description",
       "description": "Allow users to add description for texture.",
       "author": "Steven Qiu & GPlane",
@@ -545,8 +545,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/texture-description_1.0.0.zip",
-        "shasum": "db3969724bcc47be96bf00e20fb27cb11e5810a5db72e4633b2bdf2faf13be17"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/texture-description_1.0.1.zip",
+        "shasum": "6f980b2c78caa1e7d7ce5942abbeaf3042c1239c9429c620bc9231a84ac7e5f6"
       }
     },
     {
