@@ -491,7 +491,7 @@
     },
     {
       "name": "restricted-email-domains",
-      "version": "0.1.2",
+      "version": "0.2.0",
       "title": "邮箱域名限制",
       "description": "限制用户注册时所使用的邮箱",
       "author": "GPlane",
@@ -500,8 +500,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/restricted-email-domains_0.1.2.zip",
-        "shasum": "29bcabd8b7023425c1e03efb31666dea126350d1156a6964aa428ed4ee9c50a0"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/restricted-email-domains_0.2.0.zip",
+        "shasum": "e5b0692f555e4e6074330784182a304088563a58c1464f6e11a693a30c73cdad"
       }
     },
     {
