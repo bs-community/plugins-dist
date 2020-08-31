@@ -536,7 +536,7 @@
     },
     {
       "name": "texture-description",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "title": "材质描述",
       "description": "允许用户为材质添加描述",
       "author": "Steven Qiu & GPlane",
@@ -545,8 +545,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/texture-description_1.2.1.zip",
-        "shasum": "a75025127096fd1bf99f9c15ac2d359106f4e73a9f9c8194443a70bd94f97a6a"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/texture-description_1.2.2.zip",
+        "shasum": "e6dc3cd2d3aa3d4074440089c9fb867f76c6fe4c61cf49db49b380057f4f28c4"
       }
     },
     {
