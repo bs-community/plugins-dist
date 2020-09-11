@@ -12,7 +12,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/204-for-unexisted-players_0.1.3.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/204-for-unexisted-players_0.1.3.zip",
         "shasum": "ef0ff73553169b8ea370397c01da5e6240d4c7b97d7266bb45f6be2caeb6195b"
       }
     },
@@ -28,7 +28,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/authme-integration_2.4.0.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/authme-integration_2.4.0.zip",
         "shasum": "24342d9c1e57def9bf9ac3e504a96fc9cf2956765be263222a3327bd8a6a411a"
       }
     },
@@ -44,7 +44,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/batch-import_4.1.0.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/batch-import_4.1.0.zip",
         "shasum": "a91e464b18f950b9d1a0bcca4a6008341de1457baa09d07297ca9f3d66664438"
       }
     },
@@ -59,7 +59,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/config-generator_3.2.1.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/config-generator_3.2.1.zip",
         "shasum": "6a54ea71cacb107a62bca30be630bcceaa4fbf4bee8c637509fb7a48b33aac38"
       }
     },
@@ -74,7 +74,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/disable-registration_1.0.2.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/disable-registration_1.0.2.zip",
         "shasum": "a2350f218670b537c7b01db9e17bb8e7d5ddbd4e7777af13017a73b760819024"
       }
     },
@@ -89,7 +89,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/embedded-comment_1.0.3.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/embedded-comment_1.0.3.zip",
         "shasum": "0282c71ab7c90a891486c485065c1dc2a442422145f89d697f86b3ded36d5678"
       }
     },
@@ -104,7 +104,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/eruda_1.0.0.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/eruda_1.0.0.zip",
         "shasum": "721836f5c669fc4080cfdb5d58abaf97a8be52c2017c58363c628aa035385483"
       }
     },
@@ -135,7 +135,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/fix-v4-update_0.2.1.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/fix-v4-update_0.2.1.zip",
         "shasum": "bd6b1ea3a1d578c8beffaee076bbdf3dda252114368dfc3fae179dd7689f64ed"
       }
     },
@@ -151,7 +151,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/forum-integration_4.1.1.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/forum-integration_4.1.1.zip",
         "shasum": "f5b50de419b9955c89e619266f53b78dfdf6c0a8e4be1ee7bfd80c591c5c61b8"
       }
     },
@@ -166,7 +166,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/gravatar_0.1.2.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/gravatar_0.1.2.zip",
         "shasum": "5d5deac1928dd9571c7dbf23334f06a889895b260aa66f2bb7e52ae30ae311a8"
       }
     },
@@ -181,7 +181,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/gtag-js_0.1.1.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/gtag-js_0.1.1.zip",
         "shasum": "1c77333043f42221aa106afdcab135a8ab2962a6bf226c198897c60269942bc2"
       }
     },
@@ -196,7 +196,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/hello-dolly_1.3.0.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/hello-dolly_1.3.0.zip",
         "shasum": "a8358343d104b9df96643b2f55812ea26b82eed468549366552dfb2dfeced3d6"
       }
     },
@@ -211,7 +211,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/hide-advanced-menu_1.0.0.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/hide-advanced-menu_1.0.0.zip",
         "shasum": "7a864cd4c152369371c8246932565cf8593377e2a103499ba3eaef179e8bf73e"
       }
     },
@@ -226,7 +226,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/hitokoto_1.3.0.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/hitokoto_1.3.0.zip",
         "shasum": "2adbb14d71ef8687b19cc538df01f5392a6b1748cf22b30d3dcf2c2c82a25f6b"
       }
     },
@@ -241,7 +241,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/insane-profile-cache_4.0.1.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/insane-profile-cache_4.0.1.zip",
         "shasum": "e3429cc4c9573b37340b42cdce4793c55bb093d41e6f2dd97d80d43539887072"
       }
     },
@@ -256,7 +256,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/insider_1.0.2.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/insider_1.0.2.zip",
         "shasum": "6b43f4df5addfc086be3af62b5fb12d65a811e1d4daf3f6f250a5d8a25904a46"
       }
     },
@@ -271,7 +271,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/invitation-codes_3.1.1.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/invitation-codes_3.1.1.zip",
         "shasum": "72922272422b09bbfc91063a75f73b44f55a2ab2ce8e7d14a78c28f04e67222a"
       }
     },
@@ -286,7 +286,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/legacy-api_1.1.2.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/legacy-api_1.1.2.zip",
         "shasum": "98d690e95d25a6e54a581f3c1a55d659f78ec995f35e496547e1994a522c480b"
       }
     },
@@ -301,7 +301,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/mojang-verification_1.13.1.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/mojang-verification_1.13.1.zip",
         "shasum": "6251fb554d223232ae16c459aeab371e0f5a8ba7441cc5d360416b4ba68a71bc"
       }
     },
@@ -316,7 +316,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth_1.0.3.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth_1.0.3.zip",
         "shasum": "72926aff6cc0d7a69e54f2401bbeb9534623f6766967eca1321d320fcc8fb184"
       }
     },
@@ -332,7 +332,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-github_0.2.2.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-github_0.2.2.zip",
         "shasum": "97678baff772ccd4703a5ca9335abd95b89e92796ce8e7b630efafe65751247d"
       }
     },
@@ -348,7 +348,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-google_0.1.1.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-google_0.1.1.zip",
         "shasum": "30caf81509da52b28aa2b7a8ad37bf5ea32351142824f875558bbf8208300aca"
       }
     },
@@ -364,7 +364,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-littleskin_0.2.4.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-littleskin_0.2.4.zip",
         "shasum": "2a572c322c7f8bae4aa307915002c1232a1e138caca282d3fa35fff26c174ced"
       }
     },
@@ -380,7 +380,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/oauth-microsoft-live_0.2.3.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-microsoft-live_0.2.3.zip",
         "shasum": "178b0a0dba0bb4c16a8baa364f047f6c661616a81765259210613d9914005fdd"
       }
     },
@@ -395,7 +395,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/password-algorithm-transition_2.2.0.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/password-algorithm-transition_2.2.0.zip",
         "shasum": "36b758f15bee7306b6f526eeb40d15f69e9ad5a5c86ece6cc66480c30ce69530"
       }
     },
@@ -410,7 +410,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/pray-for-kyoto-animation_1.0.3.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/pray-for-kyoto-animation_1.0.3.zip",
         "shasum": "c678392663fba7a24b17c2cc24a97d2c4fad2c1eec13ed1497d3c3c3558ead7f"
       }
     },
@@ -425,7 +425,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/predis_1.0.0.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/predis_1.0.0.zip",
         "shasum": "3d4c0f0c0c80313c79abb7cfd48036a9cf588c3ad62ff0a65374886bb79eb9d1"
       }
     },
@@ -440,7 +440,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/purge-azure-global-cdn_1.1.1.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/purge-azure-global-cdn_1.1.1.zip",
         "shasum": "85208c7721afb313feaa591eaab67324cf0a782cf864a4b1aec9b01474ebf9cf"
       }
     },
@@ -455,7 +455,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/refresh-ali-cdn_1.0.0.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/refresh-ali-cdn_1.0.0.zip",
         "shasum": "c4a06d9858993ebca0a334480ee3bfd26f7c91dac6fb79dac19968497cbc62a5"
       }
     },
@@ -470,7 +470,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/refresh-qcloud-cdn_2.1.2.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/refresh-qcloud-cdn_2.1.2.zip",
         "shasum": "a463f782ffcf9812ad43c98a8e949a0f1c7d8c5f4f708d3d00a98f3a5bc03c03"
       }
     },
@@ -485,7 +485,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/remote-addr_0.1.0.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/remote-addr_0.1.0.zip",
         "shasum": "8463f6ba645a1f209636f209a1f9d3229ccbe4fcfd4b9ed42780f5d79cc3c4d4"
       }
     },
@@ -515,7 +515,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/share-registration-link_2.0.1.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/share-registration-link_2.0.1.zip",
         "shasum": "13196b342783cf1678e357792c58f04891e00bc450fa48dc6759c3aa40b4f40a"
       }
     },
@@ -530,7 +530,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/single-player-limit_3.0.2.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/single-player-limit_3.0.2.zip",
         "shasum": "864b909f21b1d6f0a7c021bea67e99905aabb6a1b1cc7cc2fec48beb88033ce1"
       }
     },
@@ -560,7 +560,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/texture-type-cast_0.3.0.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/texture-type-cast_0.3.0.zip",
         "shasum": "083a1d4d316af9f5902864a2b9e8ca1412e3eb96267e87abb3df1117a550b04b"
       }
     },
@@ -575,7 +575,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-aliyun-oss_2.0.4.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/textures-aliyun-oss_2.0.4.zip",
         "shasum": "aede45d94cf7bdf95cafa033b5685af3bc75d47a89364261ce225c4d4b0110ec"
       }
     },
@@ -590,7 +590,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-qcloud-cos_2.0.4.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/textures-qcloud-cos_2.0.4.zip",
         "shasum": "8c40ddf2fcbadc0d20d335bdf5810c4575b86c38a000fec013273285930f56f1"
       }
     },
@@ -605,7 +605,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/textures-qiniu-storage_2.0.4.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/textures-qiniu-storage_2.0.4.zip",
         "shasum": "c3d172b07b38658327547f61178350b791796cc49206dbb0a0d5ddc508fc1d77"
       }
     },
@@ -620,7 +620,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/trust-proxies_0.1.2.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/trust-proxies_0.1.2.zip",
         "shasum": "41acfb1969c16ab0b344429899fcce6f42152843fb77ef8825bf0f2754753f51"
       }
     },
@@ -635,7 +635,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://cdn.jsdelivr.net/gh/bs-community/plugins-dist/usm-api_1.2.2.zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/usm-api_1.2.2.zip",
         "shasum": "3dedc716eb34afd73fe631da3463252503e5615bb2f8446f9f593696dbee6b6a"
       }
     },
