@@ -641,7 +641,7 @@
     },
     {
       "name": "yggdrasil-api",
-      "version": "4.10.3",
+      "version": "4.11.0",
       "title": "Yggdrasil API",
       "description": "Yggdrasil API + authlib-injector = ✨",
       "author": "printempw",
@@ -650,8 +650,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/yggdrasil-api_4.10.3.zip",
-        "shasum": "483725396533de56e9e04143cff43af480d95dd4b8a054d30dd8fcd656d82a1a"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/yggdrasil-api_4.11.0.zip",
+        "shasum": "6c6de862826be14694d19d078a7ee904564cd184bd3ce84689531e793848afae"
       }
     }
   ]
