@@ -491,7 +491,7 @@
     },
     {
       "name": "restricted-email-domains",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "title": "Email Domains Restriction",
       "description": "Restrict email domain names for registration.",
       "author": "GPlane",
@@ -500,8 +500,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/restricted-email-domains_0.2.0.zip",
-        "shasum": "e5b0692f555e4e6074330784182a304088563a58c1464f6e11a693a30c73cdad"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/restricted-email-domains_0.2.1.zip",
+        "shasum": "3a6ac4e1c8c06ebbdbbb918cb5ffc0969b036213f2804fea7db1044aee04a58a"
       }
     },
     {
