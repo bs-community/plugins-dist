@@ -18,7 +18,7 @@
     },
     {
       "name": "authme-integration",
-      "version": "2.4.0",
+      "version": "2.4.1",
       "title": "Authme 数据对接",
       "description": "与 Authme 进行数据对接，让玩家可以使用皮肤站的账号密码登录游戏。",
       "author": "printempw",
@@ -28,8 +28,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/authme-integration_2.4.0.zip",
-        "shasum": "24342d9c1e57def9bf9ac3e504a96fc9cf2956765be263222a3327bd8a6a411a"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/authme-integration_2.4.1.zip",
+        "shasum": "efc522e63ef101cebd2a13a1ee59279433eec6d1d624b8066c91811be0da8e30"
       }
     },
     {
