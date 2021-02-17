@@ -551,17 +551,17 @@
     },
     {
       "name": "texture-type-cast",
-      "version": "0.3.1",
+      "version": "0.4.0",
       "title": "材质类型强制转换",
       "description": "强制对全站的材质进行材质类型修改",
       "author": "GPlane",
       "require": {
-        "blessing-skin-server": "^5|^6"
+        "blessing-skin-server": "^6"
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/texture-type-cast_0.3.1.zip",
-        "shasum": "874f17977fa9864f2aaedd198363b64a9039700206dacb462886c1edb1370a3b"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/texture-type-cast_0.4.0.zip",
+        "shasum": "dabc31d2ba34f18f85086bbf9ae60f87e39201282524e50d4d3bc704ed077b4c"
       }
     },
     {
