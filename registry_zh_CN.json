@@ -338,7 +338,7 @@
     },
     {
       "name": "oauth-google",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "title": "使用 Google 登录",
       "description": "用 Google 账号来登录皮肤站",
       "author": "GPlane",
@@ -348,8 +348,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-google_0.1.2.zip",
-        "shasum": "0ab72dfb3fe8be0faca55ae4201cb01d8326c1cd1cb36122bd37704109edf679"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-google_0.1.3.zip",
+        "shasum": "7de66a5592f532bf5ce8d55cfc32f45e57c6155dc32277846604f77278c82028"
       }
     },
     {
