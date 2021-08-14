@@ -307,7 +307,7 @@
     },
     {
       "name": "oauth",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "title": "OAuth Client Core",
       "description": "Core plugin of OAuth client.",
       "author": "GPlane",
@@ -316,8 +316,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth_1.0.4.zip",
-        "shasum": "6769dc11edee1f1908427b7b763ff780570d77cc6b87116e712c19157478cd12"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth_1.0.5.zip",
+        "shasum": "ea148e4fe017ae76217a8e9c923f299444bda5a8538b4fb8d9a5d656ab72e499"
       }
     },
     {
