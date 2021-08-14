@@ -307,7 +307,7 @@
     },
     {
       "name": "oauth",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "title": "OAuth Client Core",
       "description": "Core plugin of OAuth client.",
       "author": "GPlane",
@@ -316,13 +316,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth_1.0.5.zip",
-        "shasum": "ea148e4fe017ae76217a8e9c923f299444bda5a8538b4fb8d9a5d656ab72e499"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth_1.0.6.zip",
+        "shasum": "e2780842f9406eef4aa265fcbb26ca3369ee7d934796c0362542ca097d8a3414"
       }
     },
     {
       "name": "oauth-github",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "title": "Log In with GitHub",
       "description": "Log in skin server with GitHub.",
       "author": "GPlane",
@@ -332,13 +332,13 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-github_0.2.4.zip",
-        "shasum": "cb1da211562017e5180c985fff2f4eb6f37f857e825af461ae4b006c2642be3c"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-github_0.2.5.zip",
+        "shasum": "9f9fd74565d94e14940cb80123ac9f105b5109dccaaa59b9c7ff4df7d44c9918"
       }
     },
     {
       "name": "oauth-google",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "title": "Log In with Google",
       "description": "Log in skin server with Google.",
       "author": "GPlane",
@@ -348,8 +348,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-google_0.1.3.zip",
-        "shasum": "7de66a5592f532bf5ce8d55cfc32f45e57c6155dc32277846604f77278c82028"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-google_0.1.4.zip",
+        "shasum": "3af8f6f5eaa5af63aeed8bb1d93c43599d1782f7bdf6022f60768fe28396f437"
       }
     },
     {
@@ -370,7 +370,7 @@
     },
     {
       "name": "oauth-microsoft-live",
-      "version": "0.2.5",
+      "version": "0.2.6",
       "title": "Log In with Microsoft Live",
       "description": "Log in skin server with Microsoft Live.",
       "author": "GPlane",
@@ -380,8 +380,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-microsoft-live_0.2.5.zip",
-        "shasum": "a6a08acc42faf853959d364ce649ceaaf388677f0315fd25eeb7228685b0c20a"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-microsoft-live_0.2.6.zip",
+        "shasum": "aea23c5f4294cf068a4f73c59f1402420c2ac291a7b276a9abda94efead310fe"
       }
     },
     {
