@@ -322,7 +322,7 @@
     },
     {
       "name": "oauth-github",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "title": "使用 GitHub 登录",
       "description": "用 GitHub 账号来登录皮肤站",
       "author": "GPlane",
@@ -332,8 +332,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-github_0.2.3.zip",
-        "shasum": "969e67587576e9aa2995d0f6699bef35fd849e18372b67156b31c65efc8c7fc3"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-github_0.2.4.zip",
+        "shasum": "cb1da211562017e5180c985fff2f4eb6f37f857e825af461ae4b006c2642be3c"
       }
     },
     {
