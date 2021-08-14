@@ -370,7 +370,7 @@
     },
     {
       "name": "oauth-microsoft-live",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "title": "Log In with Microsoft Live",
       "description": "Log in skin server with Microsoft Live.",
       "author": "GPlane",
@@ -380,8 +380,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-microsoft-live_0.2.4.zip",
-        "shasum": "a3440ffe3ebb4ab7fde81792054ca98e900b28f2abbbca80b2af54c5d09739b4"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-microsoft-live_0.2.5.zip",
+        "shasum": "a6a08acc42faf853959d364ce649ceaaf388677f0315fd25eeb7228685b0c20a"
       }
     },
     {
