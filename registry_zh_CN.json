@@ -34,18 +34,17 @@
     },
     {
       "name": "batch-import",
-      "version": "4.1.1",
+      "version": "4.1.2",
       "title": "批量导入",
       "description": "批量导入材质至皮肤库。",
       "author": "printempw",
       "require": {
-        "blessing-skin-server": "^5|^6",
-        "texture-type-cast": ">=0.2.0"
+        "blessing-skin-server": "^5|^6"
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/batch-import_4.1.1.zip",
-        "shasum": "fef957d93f2fd31c0ebb5c663d531650e012ffb22254e090fa314334b20b8042"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/batch-import_4.1.2.zip",
+        "shasum": "7ddd516aa57aa78929db77df1237d1779b88c5e3a4bfcdd4c9a9cb474c792161"
       }
     },
     {
