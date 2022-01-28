@@ -565,7 +565,7 @@
     },
     {
       "name": "textures-aliyun-oss",
-      "version": "2.0.5",
+      "version": "2.0.6",
       "title": "阿里云对象存储 OSS",
       "description": "将用户上传的材质存储文件至阿里云 OSS 中。",
       "author": "printempw",
@@ -574,8 +574,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/textures-aliyun-oss_2.0.5.zip",
-        "shasum": "c21f10f31ba261e4b40c6e8441b830f9c1a084597bf3533dd94c0c945cb281ce"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/textures-aliyun-oss_2.0.6.zip",
+        "shasum": "12984fd4bcfd9d9e8c1ff88b9ac6f704a175443f8c6f68b85379538bc7ba26b2"
       }
     },
     {
