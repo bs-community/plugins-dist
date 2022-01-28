@@ -155,6 +155,21 @@
       }
     },
     {
+      "name": "google-adsense",
+      "version": "0.0.1",
+      "title": "Google Adsense",
+      "description": "Insert your Google AdSense ID to the site.",
+      "author": "Big_Cake",
+      "require": {
+        "blessing-skin-server": "^5|^6"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/google-adsense_0.0.1.zip",
+        "shasum": "c9e605467f9c47710a6590b22d4307209eaa693d7d624bd73f5ed6bd591511f2"
+      }
+    },
+    {
       "name": "gravatar",
       "version": "0.1.3",
       "title": "Gravatar",
