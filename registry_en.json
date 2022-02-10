@@ -246,7 +246,7 @@
     },
     {
       "name": "insane-profile-cache",
-      "version": "4.0.2",
+      "version": "4.0.3",
       "title": "Profile 文件缓存",
       "description": "直接生成玩家 Profile 的文件缓存，交给 Nginx 处理，慎用。",
       "author": "printempw",
@@ -255,8 +255,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/insane-profile-cache_4.0.2.zip",
-        "shasum": "5a86ba50d1e8650d9525dc677ca629e83c0d2e3afd973aa84265eb25a909ba28"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/insane-profile-cache_4.0.3.zip",
+        "shasum": "5f765bf3bc09c36433c03387110a0436b350a1baeb5995b74828d103a2f91484"
       }
     },
     {
