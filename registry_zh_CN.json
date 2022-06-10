@@ -94,7 +94,7 @@
     },
     {
       "name": "eruda",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": "Eruda",
       "description": "适用于移动端浏览器的开发者工具。",
       "author": "Little_Qiu",
@@ -103,8 +103,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/eruda_1.0.0.zip",
-        "shasum": "721836f5c669fc4080cfdb5d58abaf97a8be52c2017c58363c628aa035385483"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/eruda_1.0.1.zip",
+        "shasum": "b7eb6bd484e9f24ad84eed347197006000a798e4a3a147763d4e65c74e31f427"
       }
     },
     {
