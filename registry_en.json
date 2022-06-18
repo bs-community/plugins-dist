@@ -306,17 +306,18 @@
     },
     {
       "name": "mojang-verification",
-      "version": "1.13.2",
+      "version": "2.0.0",
       "title": "Mojang Verification",
       "description": "Provides verification and binding support for paid Minecraft user.",
       "author": "GPlane",
       "require": {
-        "blessing-skin-server": "^5|^6"
+        "blessing-skin-server": "^5|^6",
+        "oauth": "^1.0.0"
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/mojang-verification_1.13.2.zip",
-        "shasum": "9f7538a40f0c0fefd717e48715cf5ebb344986887c85ba95b15e9025753c8125"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/mojang-verification_2.0.0.zip",
+        "shasum": "015c91ed1f98d46341d29e942565d228c4d0de428748ae242d2cb4db6a94bd90"
       }
     },
     {
