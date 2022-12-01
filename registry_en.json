@@ -353,7 +353,7 @@
     },
     {
       "name": "oauth-google",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "title": "Log In with Google",
       "description": "Log in skin server with Google.",
       "author": "GPlane",
@@ -363,8 +363,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://git.qvq.network/bs-community/plugins-dist/-/raw/master/oauth-google_0.1.4.zip",
-        "shasum": "3af8f6f5eaa5af63aeed8bb1d93c43599d1782f7bdf6022f60768fe28396f437"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-google_0.1.5.zip",
+        "shasum": "661d0ec2812d05c1e1e261a41472aac388c8d7815dbc365b7d2259001745bc0d"
       }
     },
     {
