@@ -671,7 +671,7 @@
     },
     {
       "name": "yggdrasil-connect",
-      "version": "6.0.1",
+      "version": "6.0.2",
       "title": "Yggdrasil Connect",
       "description": "Refactored from Yggdrasil API plugin, fixing some bugs and adding Yggdrasil Connect support. Please read the plugin README before use.",
       "author": "LittleSkin",
@@ -680,8 +680,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://d2jw1l0ullrzt6.cloudfront.net/yggdrasil-connect_6.0.1.zip",
-        "shasum": "fbf515a6e4039c50d12653d85da7e1c2321efc20757ab0601753c3591234fd8c"
+        "url": "https://bs-plugins.littleservice.cn/yggdrasil-connect_6.0.2.zip",
+        "shasum": "2debcf1cb8a9e413c92d9d5fa03db425a1fd26e64308cf340be4be7b11c5584e"
       }
     }
   ]
