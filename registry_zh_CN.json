@@ -671,7 +671,7 @@
     },
     {
       "name": "yggdrasil-connect",
-      "version": "6.1.1",
+      "version": "6.1.2",
       "title": "Yggdrasil Connect",
       "description": "重构版 Yggdrasil API 插件，修复了大量 Bug，添加了 Yggdrasil Connect 支持。使用之前请阅读插件 README。",
       "author": "LittleSkin",
@@ -681,8 +681,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://bs-plugins.littleservice.cn/yggdrasil-connect_6.1.1.zip",
-        "shasum": "8999c03cb3e2ab31247502c1d1675f77b5c1f59fae7bae3fe90ad04bc88a1241"
+        "url": "https://bs-plugins.littleservice.cn/yggdrasil-connect_6.1.2.zip",
+        "shasum": "c36c6ff64178043447b8c0cdd17902fb3b6d402b5a24b0a5ac5ba6d10f38f726"
       }
     }
   ]
